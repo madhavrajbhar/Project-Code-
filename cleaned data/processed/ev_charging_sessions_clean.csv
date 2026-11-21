@@ -1,0 +1,809 @@
+Session_ID,Station_ID,Station_Location,Charger_Type,Charging_Start_Time,Energy_kWh,Charging_Duration_Mins,Vehicle_Type,Hour,Weekday,Month,Duration_Group
+EV000000,ST029,Mall,Level 2,2025-12-15 03:00:00,29.68,344.0,Compact,3,Monday,12,Over 4 hours
+EV000001,ST018,Mall,Level 1,2026-04-13 14:00:00,67.58,224.0,Sedan,14,Monday,4,2–4 hours
+EV000002,ST006,Transit Hub,Level 2,2025-08-07 06:00:00,28.33,305.0,Sedan,6,Thursday,8,Over 4 hours
+EV000003,ST028,Highway,Level 1,2026-09-14 23:00:00,24.9,277.0,Compact,23,Monday,9,Over 4 hours
+EV000004,ST025,Highway,Level 1,2026-10-02 07:00:00,19.69,245.0,Sedan,7,Friday,10,Over 4 hours
+EV000005,ST015,Office District,Level 2,2026-05-30 05:00:00,47.77,51.0,Sedan,5,Saturday,5,Up to 1 hour
+EV000006,ST016,Residential,Level 1,2026-08-31 18:00:00,9.43,72.0,Sedan,18,Monday,8,1–2 hours
+EV000007,ST049,Residential,Level 2,2026-02-18 12:00:00,64.31,184.0,SUV,12,Wednesday,2,2–4 hours
+EV000008,ST031,Mall,DC Fast,2026-09-10 15:00:00,80.16,304.0,SUV,15,Thursday,9,Over 4 hours
+EV000009,ST035,Transit Hub,Level 1,2025-12-07 04:00:00,21.65,24.0,Van,4,Sunday,12,Up to 1 hour
+EV000010,ST004,Transit Hub,DC Fast,2026-06-14 06:00:00,47.08,303.0,Compact,6,Sunday,6,Over 4 hours
+EV000011,ST048,Residential,DC Fast,2025-11-02 05:00:00,79.82,190.0,SUV,5,Sunday,11,2–4 hours
+EV000012,ST016,Mall,Level 1,2026-05-05 18:00:00,77.46,206.0,SUV,18,Tuesday,5,2–4 hours
+EV000014,ST047,Office District,Level 1,2025-08-14 07:00:00,20.86,182.0,Sedan,7,Thursday,8,2–4 hours
+EV000015,ST011,Highway,DC Fast,2026-06-24 02:00:00,42.15,41.0,SUV,2,Wednesday,6,Up to 1 hour
+EV000016,ST017,Mall,Level 2,2025-04-10 14:00:00,88.58,170.0,Compact,14,Thursday,4,2–4 hours
+EV000017,ST036,Highway,DC Fast,2025-08-27 03:00:00,25.57,140.0,Compact,3,Wednesday,8,2–4 hours
+EV000018,ST025,Residential,Level 1,2026-09-17 23:00:00,16.33,162.0,Van,23,Thursday,9,2–4 hours
+EV000019,ST023,Residential,Level 2,2025-07-30 05:00:00,40.12,115.0,Compact,5,Wednesday,7,1–2 hours
+EV000020,ST020,Transit Hub,Level 2,2026-01-12 08:00:00,17.85,215.0,SUV,8,Monday,1,2–4 hours
+EV000021,ST031,Mall,Level 2,2026-08-21 12:00:00,45.02,323.0,Compact,12,Friday,8,Over 4 hours
+EV000022,ST033,Transit Hub,Level 2,2026-09-06 05:00:00,57.63,50.0,SUV,5,Sunday,9,Up to 1 hour
+EV000023,ST023,Transit Hub,Level 1,2026-08-07 23:00:00,38.58,168.0,Sedan,23,Friday,8,2–4 hours
+EV000024,ST029,Transit Hub,Level 2,2025-05-12 14:00:00,26.49,105.0,Compact,14,Monday,5,1–2 hours
+EV000025,ST003,Residential,Level 2,2026-05-08 16:00:00,44.13,49.0,Sedan,16,Friday,5,Up to 1 hour
+EV000026,ST019,Mall,Level 1,2026-05-25 02:00:00,72.22,278.0,Sedan,2,Monday,5,Over 4 hours
+EV000027,ST034,Transit Hub,DC Fast,2026-03-14 15:00:00,74.5,156.0,Sedan,15,Saturday,3,2–4 hours
+EV000028,ST037,Highway,Level 1,2026-06-21 18:00:00,5.53,198.0,Van,18,Sunday,6,2–4 hours
+EV000029,ST024,Highway,DC Fast,2025-09-01 08:00:00,8.82,238.0,Van,8,Monday,9,2–4 hours
+EV000030,ST034,Office District,Level 2,2026-06-01 18:00:00,82.97,87.0,Van,18,Monday,6,1–2 hours
+EV000031,ST007,Highway,Level 1,2026-05-28 02:00:00,24.36,331.0,Van,2,Thursday,5,Over 4 hours
+EV000032,ST031,Mall,DC Fast,2026-07-21 15:00:00,39.54,324.0,Van,15,Tuesday,7,Over 4 hours
+EV000033,ST033,Highway,DC Fast,2026-06-10 19:00:00,14.56,316.0,SUV,19,Wednesday,6,Over 4 hours
+EV000035,ST008,Transit Hub,Level 2,2025-12-04 00:00:00,69.7,169.0,SUV,0,Thursday,12,2–4 hours
+EV000036,ST045,Transit Hub,DC Fast,2026-01-30 11:00:00,9.5,112.0,Van,11,Friday,1,1–2 hours
+EV000037,ST043,Highway,DC Fast,2025-09-17 17:00:00,43.11,235.0,SUV,17,Wednesday,9,2–4 hours
+EV000038,ST047,Highway,Level 2,2026-10-17 02:00:00,57.34,120.0,Compact,2,Saturday,10,1–2 hours
+EV000039,ST002,Residential,DC Fast,2025-03-21 08:00:00,29.36,348.0,SUV,8,Friday,3,Over 4 hours
+EV000040,ST004,Highway,Level 2,2026-09-18 17:00:00,74.8,103.0,Compact,17,Friday,9,1–2 hours
+EV000041,ST021,Office District,Level 1,2026-01-23 11:00:00,5.31,70.0,Compact,11,Friday,1,1–2 hours
+EV000042,ST048,Highway,DC Fast,2025-07-06 10:00:00,41.31,186.0,Van,10,Sunday,7,2–4 hours
+EV000043,ST017,Office District,Level 1,2025-12-15 12:00:00,77.42,320.0,SUV,12,Monday,12,Over 4 hours
+EV000044,ST016,Transit Hub,Level 1,2025-03-20 13:00:00,14.92,29.0,Van,13,Thursday,3,Up to 1 hour
+EV000045,ST044,Mall,Level 2,2026-03-03 05:00:00,21.32,307.0,Compact,5,Tuesday,3,Over 4 hours
+EV000046,ST002,Mall,Level 2,2026-10-18 02:00:00,60.69,296.0,SUV,2,Sunday,10,Over 4 hours
+EV000047,ST037,Office District,Level 2,2025-01-09 16:00:00,31.73,330.0,Sedan,16,Thursday,1,Over 4 hours
+EV000048,ST028,Residential,DC Fast,2025-11-29 19:00:00,25.99,208.0,Van,19,Saturday,11,2–4 hours
+EV000049,ST013,Mall,Level 2,2026-02-22 06:00:00,49.38,348.0,Compact,6,Sunday,2,Over 4 hours
+EV000050,ST033,Residential,Level 2,2026-02-06 06:00:00,58.73,156.0,Van,6,Friday,2,2–4 hours
+EV000051,ST017,Mall,DC Fast,2026-07-05 03:00:00,65.78,76.0,Van,3,Sunday,7,1–2 hours
+EV000052,ST041,Highway,Level 2,2026-04-21 05:00:00,37.48,26.0,SUV,5,Tuesday,4,Up to 1 hour
+EV000053,ST032,Office District,DC Fast,2026-01-29 08:00:00,55.08,210.0,Van,8,Thursday,1,2–4 hours
+EV000054,ST001,Transit Hub,Level 2,2026-09-23 19:00:00,83.02,39.0,Sedan,19,Wednesday,9,Up to 1 hour
+EV000055,ST048,Highway,Level 1,2025-10-30 20:00:00,85.79,76.0,Compact,20,Thursday,10,1–2 hours
+EV000056,ST038,Transit Hub,Level 2,2025-06-05 21:00:00,58.76,346.0,SUV,21,Thursday,6,Over 4 hours
+EV000057,ST020,Mall,DC Fast,2026-10-29 09:00:00,50.72,111.0,Compact,9,Thursday,10,1–2 hours
+EV000058,ST031,Residential,Level 1,2026-05-14 03:00:00,68.11,77.0,Sedan,3,Thursday,5,1–2 hours
+EV000059,ST041,Highway,Level 1,2026-02-15 23:00:00,82.23,290.0,Compact,23,Sunday,2,Over 4 hours
+EV000060,ST024,Office District,Level 2,2025-08-19 01:00:00,24.13,126.0,SUV,1,Tuesday,8,2–4 hours
+EV000061,ST036,Transit Hub,DC Fast,2026-06-18 00:00:00,36.67,318.0,Sedan,0,Thursday,6,Over 4 hours
+EV000062,ST041,Transit Hub,Level 1,2025-02-28 18:00:00,6.89,115.0,SUV,18,Friday,2,1–2 hours
+EV000063,ST035,Residential,DC Fast,2025-05-29 00:00:00,87.22,175.0,SUV,0,Thursday,5,2–4 hours
+EV000064,ST024,Transit Hub,Level 1,2026-08-26 13:00:00,74.5,30.0,Sedan,13,Wednesday,8,Up to 1 hour
+EV000065,ST012,Office District,DC Fast,2025-05-10 21:00:00,11.51,274.0,Van,21,Saturday,5,Over 4 hours
+EV000066,ST011,Transit Hub,Level 1,2025-01-19 22:00:00,78.87,327.0,Van,22,Sunday,1,Over 4 hours
+EV000067,ST002,Highway,DC Fast,2026-09-10 04:00:00,65.13,89.0,Van,4,Thursday,9,1–2 hours
+EV000068,ST023,Mall,Level 2,2025-08-20 04:00:00,78.33,245.0,Sedan,4,Wednesday,8,Over 4 hours
+EV000069,ST024,Highway,Level 1,2026-09-13 05:00:00,77.35,173.0,Van,5,Sunday,9,2–4 hours
+EV000071,ST030,Office District,Level 2,2025-03-27 18:00:00,29.79,21.0,Compact,18,Thursday,3,Up to 1 hour
+EV000072,ST016,Highway,Level 1,2025-12-27 04:00:00,33.74,347.0,Van,4,Saturday,12,Over 4 hours
+EV000073,ST024,Office District,Level 2,2026-10-07 04:00:00,64.11,284.0,Sedan,4,Wednesday,10,Over 4 hours
+EV000074,ST038,Transit Hub,DC Fast,2025-10-30 10:00:00,61.09,193.0,Van,10,Thursday,10,2–4 hours
+EV000075,ST019,Transit Hub,Level 2,2026-05-03 14:00:00,46.48,110.0,Van,14,Sunday,5,1–2 hours
+EV000076,ST004,Residential,DC Fast,2025-01-06 07:00:00,51.26,114.0,SUV,7,Monday,1,1–2 hours
+EV000077,ST015,Residential,Level 2,2025-07-20 01:00:00,43.33,31.0,Compact,1,Sunday,7,Up to 1 hour
+EV000078,ST021,Mall,Level 1,2025-12-10 22:00:00,32.62,45.0,Compact,22,Wednesday,12,Up to 1 hour
+EV000079,ST043,Transit Hub,Level 2,2025-05-26 21:00:00,74.2,139.0,Sedan,21,Monday,5,2–4 hours
+EV000080,ST004,Highway,Level 1,2025-05-09 11:00:00,53.56,232.0,Sedan,11,Friday,5,2–4 hours
+EV000081,ST009,Residential,DC Fast,2026-03-12 13:00:00,70.08,141.0,Sedan,13,Thursday,3,2–4 hours
+EV000082,ST014,Office District,Level 1,2025-06-13 08:00:00,18.53,47.0,Van,8,Friday,6,Up to 1 hour
+EV000083,ST001,Mall,Level 2,2025-03-07 10:00:00,25.96,264.0,Compact,10,Friday,3,Over 4 hours
+EV000084,ST045,Office District,Level 1,2025-05-19 18:00:00,39.46,57.0,SUV,18,Monday,5,Up to 1 hour
+EV000085,ST006,Highway,Level 1,2026-04-21 08:00:00,24.07,144.0,Compact,8,Tuesday,4,2–4 hours
+EV000086,ST032,Office District,Level 1,2026-02-05 19:00:00,56.87,352.0,Compact,19,Thursday,2,Over 4 hours
+EV000087,ST022,Transit Hub,Level 2,2026-07-05 07:00:00,65.72,122.0,SUV,7,Sunday,7,2–4 hours
+EV000088,ST042,Transit Hub,Level 2,2025-01-29 05:00:00,24.3,140.0,Compact,5,Wednesday,1,2–4 hours
+EV000089,ST028,Mall,DC Fast,2025-12-07 06:00:00,6.11,22.0,Van,6,Sunday,12,Up to 1 hour
+EV000090,ST044,Transit Hub,Level 2,2026-09-21 11:00:00,56.56,31.0,Van,11,Monday,9,Up to 1 hour
+EV000091,ST035,Office District,DC Fast,2026-07-07 23:00:00,88.4,285.0,Sedan,23,Tuesday,7,Over 4 hours
+EV000092,ST041,Residential,DC Fast,2026-02-11 15:00:00,32.82,102.0,SUV,15,Wednesday,2,1–2 hours
+EV000093,ST028,Residential,Level 2,2026-03-28 07:00:00,58.92,44.0,Sedan,7,Saturday,3,Up to 1 hour
+EV000094,ST004,Office District,Level 1,2025-02-25 03:00:00,9.08,326.0,Van,3,Tuesday,2,Over 4 hours
+EV000095,ST032,Transit Hub,Level 1,2026-01-23 05:00:00,53.35,136.0,SUV,5,Friday,1,2–4 hours
+EV000096,ST019,Office District,DC Fast,2025-03-07 09:00:00,52.6,56.0,Compact,9,Friday,3,Up to 1 hour
+EV000097,ST006,Transit Hub,DC Fast,2025-10-13 10:00:00,53.22,103.0,SUV,10,Monday,10,1–2 hours
+EV000098,ST022,Transit Hub,DC Fast,2025-08-02 05:00:00,46.29,69.0,Sedan,5,Saturday,8,1–2 hours
+EV000099,ST022,Highway,Level 1,2026-03-13 06:00:00,43.3,344.0,SUV,6,Friday,3,Over 4 hours
+EV000100,ST049,Highway,Level 1,2026-06-06 04:00:00,78.52,289.0,Sedan,4,Saturday,6,Over 4 hours
+EV000101,ST035,Highway,DC Fast,2026-10-14 06:00:00,6.13,226.0,Compact,6,Wednesday,10,2–4 hours
+EV000102,ST039,Highway,DC Fast,2026-10-11 20:00:00,36.85,266.0,SUV,20,Sunday,10,Over 4 hours
+EV000103,ST016,Mall,Level 2,2025-03-20 06:00:00,40.42,29.0,Sedan,6,Thursday,3,Up to 1 hour
+EV000104,ST022,Office District,DC Fast,2025-01-26 04:00:00,75.45,169.0,Sedan,4,Sunday,1,2–4 hours
+EV000105,ST013,Residential,Level 2,2025-04-23 03:00:00,38.12,249.0,Compact,3,Wednesday,4,Over 4 hours
+EV000106,ST026,Residential,DC Fast,2026-06-23 01:00:00,12.59,276.0,Sedan,1,Tuesday,6,Over 4 hours
+EV000108,ST016,Transit Hub,Level 2,2026-02-11 18:00:00,15.23,293.0,Sedan,18,Wednesday,2,Over 4 hours
+EV000109,ST019,Office District,Level 1,2026-10-21 04:00:00,56.33,247.0,Van,4,Wednesday,10,Over 4 hours
+EV000110,ST047,Transit Hub,DC Fast,2025-11-13 06:00:00,50.06,76.0,Sedan,6,Thursday,11,1–2 hours
+EV000111,ST001,Mall,Level 1,2025-12-01 00:00:00,26.19,198.0,Van,0,Monday,12,2–4 hours
+EV000112,ST043,Transit Hub,DC Fast,2026-04-16 00:00:00,21.06,198.0,Van,0,Thursday,4,2–4 hours
+EV000113,ST045,Residential,Level 2,2025-09-22 18:00:00,82.31,131.0,Van,18,Monday,9,2–4 hours
+EV000114,ST013,Transit Hub,DC Fast,2025-04-28 08:00:00,54.81,227.0,Van,8,Monday,4,2–4 hours
+EV000116,ST013,Mall,DC Fast,2026-10-12 18:00:00,27.49,285.0,Compact,18,Monday,10,Over 4 hours
+EV000117,ST042,Transit Hub,Level 2,2025-07-06 08:00:00,45.35,34.0,Sedan,8,Sunday,7,Up to 1 hour
+EV000118,ST008,Transit Hub,Level 2,2025-03-29 23:00:00,26.84,92.0,Compact,23,Saturday,3,1–2 hours
+EV000119,ST003,Residential,DC Fast,2025-08-09 12:00:00,18.56,96.0,Compact,12,Saturday,8,1–2 hours
+EV000120,ST008,Residential,Level 2,2025-09-17 04:00:00,38.08,98.0,Sedan,4,Wednesday,9,1–2 hours
+EV000121,ST014,Residential,Level 1,2025-10-10 13:00:00,5.26,332.0,Van,13,Friday,10,Over 4 hours
+EV000122,ST034,Residential,Level 2,2026-10-15 07:00:00,80.65,127.0,SUV,7,Thursday,10,2–4 hours
+EV000123,ST027,Highway,DC Fast,2025-12-14 09:00:00,43.24,261.0,Van,9,Sunday,12,Over 4 hours
+EV000124,ST024,Mall,Level 2,2026-06-18 16:00:00,15.5,320.0,SUV,16,Thursday,6,Over 4 hours
+EV000125,ST008,Mall,Level 2,2025-02-06 20:00:00,44.69,52.0,Van,20,Thursday,2,Up to 1 hour
+EV000126,ST038,Mall,Level 1,2025-04-20 12:00:00,78.99,287.0,Van,12,Sunday,4,Over 4 hours
+EV000127,ST049,Residential,Level 1,2025-09-27 20:00:00,86.37,247.0,Sedan,20,Saturday,9,Over 4 hours
+EV000129,ST028,Highway,Level 2,2026-01-25 08:00:00,87.85,325.0,SUV,8,Sunday,1,Over 4 hours
+EV000130,ST015,Office District,DC Fast,2025-06-07 20:00:00,32.51,119.0,Sedan,20,Saturday,6,1–2 hours
+EV000131,ST040,Mall,Level 2,2025-03-24 05:00:00,65.09,248.0,Sedan,5,Monday,3,Over 4 hours
+EV000132,ST029,Office District,DC Fast,2025-03-20 03:00:00,68.99,88.0,SUV,3,Thursday,3,1–2 hours
+EV000133,ST014,Transit Hub,DC Fast,2025-11-05 11:00:00,82.05,220.0,Sedan,11,Wednesday,11,2–4 hours
+EV000135,ST010,Residential,Level 1,2025-07-25 03:00:00,70.13,188.0,Compact,3,Friday,7,2–4 hours
+EV000136,ST047,Mall,DC Fast,2025-07-26 15:00:00,63.25,345.0,SUV,15,Saturday,7,Over 4 hours
+EV000137,ST042,Transit Hub,Level 2,2025-03-16 06:00:00,32.66,220.0,Van,6,Sunday,3,2–4 hours
+EV000138,ST022,Mall,Level 2,2025-03-21 02:00:00,75.22,329.0,SUV,2,Friday,3,Over 4 hours
+EV000139,ST011,Residential,DC Fast,2026-09-05 09:00:00,80.8,316.0,Van,9,Saturday,9,Over 4 hours
+EV000140,ST010,Transit Hub,DC Fast,2025-03-12 20:00:00,53.18,29.0,SUV,20,Wednesday,3,Up to 1 hour
+EV000141,ST019,Office District,DC Fast,2025-08-28 09:00:00,74.62,127.0,Compact,9,Thursday,8,2–4 hours
+EV000142,ST005,Residential,DC Fast,2025-05-18 07:00:00,58.11,46.0,Compact,7,Sunday,5,Up to 1 hour
+EV000143,ST037,Office District,Level 1,2025-11-26 04:00:00,72.08,282.0,Van,4,Wednesday,11,Over 4 hours
+EV000144,ST005,Office District,Level 2,2026-05-13 07:00:00,57.54,266.0,Van,7,Wednesday,5,Over 4 hours
+EV000145,ST012,Transit Hub,Level 2,2025-12-18 12:00:00,63.9,237.0,Compact,12,Thursday,12,2–4 hours
+EV000146,ST020,Highway,Level 1,2026-05-31 09:00:00,8.19,55.0,Sedan,9,Sunday,5,Up to 1 hour
+EV000147,ST033,Residential,Level 2,2025-04-22 14:00:00,13.19,64.0,Sedan,14,Tuesday,4,1–2 hours
+EV000148,ST021,Highway,Level 1,2026-02-22 10:00:00,40.14,306.0,Sedan,10,Sunday,2,Over 4 hours
+EV000149,ST047,Residential,Level 2,2026-01-14 14:00:00,72.1,101.0,Compact,14,Wednesday,1,1–2 hours
+EV000150,ST019,Transit Hub,Level 2,2025-01-12 20:00:00,10.41,217.0,Van,20,Sunday,1,2–4 hours
+EV000151,ST027,Highway,Level 2,2025-06-14 19:00:00,6.16,320.0,Sedan,19,Saturday,6,Over 4 hours
+EV000152,ST024,Office District,DC Fast,2025-12-14 23:00:00,23.54,128.0,Compact,23,Sunday,12,2–4 hours
+EV000153,ST014,Transit Hub,Level 2,2026-02-09 01:00:00,78.13,130.0,SUV,1,Monday,2,2–4 hours
+EV000154,ST030,Residential,Level 2,2025-05-18 06:00:00,80.41,83.0,Van,6,Sunday,5,1–2 hours
+EV000155,ST047,Transit Hub,Level 2,2025-03-20 03:00:00,30.02,159.0,SUV,3,Thursday,3,2–4 hours
+EV000156,ST010,Mall,Level 1,2025-04-06 17:00:00,62.95,225.0,Compact,17,Sunday,4,2–4 hours
+EV000157,ST045,Highway,Level 1,2026-06-14 10:00:00,64.79,133.0,Van,10,Sunday,6,2–4 hours
+EV000158,ST041,Highway,Level 2,2025-03-05 00:00:00,5.08,101.0,SUV,0,Wednesday,3,1–2 hours
+EV000159,ST031,Office District,DC Fast,2026-08-01 11:00:00,36.8,209.0,Sedan,11,Saturday,8,2–4 hours
+EV000160,ST036,Highway,Level 2,2025-04-13 13:00:00,17.76,38.0,Van,13,Sunday,4,Up to 1 hour
+EV000161,ST037,Mall,DC Fast,2026-10-18 04:00:00,34.42,42.0,Van,4,Sunday,10,Up to 1 hour
+EV000162,ST017,Mall,Level 1,2026-02-28 07:00:00,27.54,239.0,Sedan,7,Saturday,2,2–4 hours
+EV000163,ST037,Residential,Level 1,2026-08-23 07:00:00,11.48,170.0,SUV,7,Sunday,8,2–4 hours
+EV000164,ST022,Transit Hub,DC Fast,2025-10-30 12:00:00,88.81,350.0,Compact,12,Thursday,10,Over 4 hours
+EV000165,ST022,Mall,Level 1,2026-03-21 03:00:00,47.6,189.0,SUV,3,Saturday,3,2–4 hours
+EV000166,ST046,Office District,DC Fast,2025-08-20 11:00:00,17.33,132.0,SUV,11,Wednesday,8,2–4 hours
+EV000167,ST013,Transit Hub,Level 2,2025-04-07 13:00:00,24.92,296.0,Van,13,Monday,4,Over 4 hours
+EV000168,ST004,Residential,Level 1,2026-05-08 12:00:00,8.13,53.0,Van,12,Friday,5,Up to 1 hour
+EV000170,ST020,Office District,DC Fast,2025-10-10 17:00:00,10.48,281.0,Compact,17,Friday,10,Over 4 hours
+EV000171,ST003,Residential,Level 2,2025-02-22 16:00:00,26.04,151.0,Compact,16,Saturday,2,2–4 hours
+EV000172,ST046,Office District,DC Fast,2025-12-12 11:00:00,42.0,174.0,SUV,11,Friday,12,2–4 hours
+EV000173,ST003,Mall,Level 1,2026-07-16 15:00:00,62.09,199.0,Van,15,Thursday,7,2–4 hours
+EV000174,ST039,Transit Hub,DC Fast,2025-04-30 02:00:00,75.76,221.0,Compact,2,Wednesday,4,2–4 hours
+EV000175,ST012,Office District,Level 2,2026-05-27 06:00:00,9.68,295.0,Sedan,6,Wednesday,5,Over 4 hours
+EV000176,ST036,Mall,DC Fast,2025-07-26 05:00:00,25.96,213.0,SUV,5,Saturday,7,2–4 hours
+EV000177,ST006,Office District,Level 1,2025-05-29 18:00:00,16.53,258.0,SUV,18,Thursday,5,Over 4 hours
+EV000178,ST047,Residential,Level 2,2026-08-27 09:00:00,34.59,287.0,Van,9,Thursday,8,Over 4 hours
+EV000179,ST003,Office District,Level 1,2025-06-08 03:00:00,19.99,35.0,Compact,3,Sunday,6,Up to 1 hour
+EV000180,ST018,Office District,DC Fast,2026-01-22 14:00:00,24.99,195.0,Sedan,14,Thursday,1,2–4 hours
+EV000181,ST029,Highway,Level 1,2025-03-06 15:00:00,82.99,138.0,SUV,15,Thursday,3,2–4 hours
+EV000182,ST031,Highway,Level 2,2025-04-11 20:00:00,59.52,149.0,Compact,20,Friday,4,2–4 hours
+EV000183,ST017,Transit Hub,DC Fast,2026-10-13 14:00:00,78.65,93.0,SUV,14,Tuesday,10,1–2 hours
+EV000184,ST003,Mall,Level 1,2025-10-15 22:00:00,51.2,271.0,Compact,22,Wednesday,10,Over 4 hours
+EV000185,ST049,Mall,DC Fast,2025-06-18 05:00:00,74.68,61.0,Compact,5,Wednesday,6,1–2 hours
+EV000186,ST043,Transit Hub,Level 2,2026-08-09 11:00:00,34.72,58.0,Sedan,11,Sunday,8,Up to 1 hour
+EV000187,ST033,Transit Hub,Level 1,2026-07-22 04:00:00,25.78,113.0,Van,4,Wednesday,7,1–2 hours
+EV000188,ST017,Highway,Level 1,2025-06-15 10:00:00,51.65,341.0,Compact,10,Sunday,6,Over 4 hours
+EV000189,ST047,Transit Hub,Level 1,2026-05-27 02:00:00,85.08,214.0,SUV,2,Wednesday,5,2–4 hours
+EV000190,ST009,Highway,Level 1,2025-07-02 08:00:00,75.98,161.0,SUV,8,Wednesday,7,2–4 hours
+EV000191,ST004,Transit Hub,Level 1,2026-06-21 14:00:00,25.67,297.0,SUV,14,Sunday,6,Over 4 hours
+EV000192,ST039,Residential,Level 2,2025-07-19 07:00:00,86.15,31.0,Compact,7,Saturday,7,Up to 1 hour
+EV000193,ST013,Residential,Level 2,2026-02-25 08:00:00,49.62,320.0,Compact,8,Wednesday,2,Over 4 hours
+EV000194,ST037,Residential,Level 2,2026-10-11 13:00:00,40.78,133.0,Compact,13,Sunday,10,2–4 hours
+EV000195,ST039,Office District,Level 1,2025-05-23 23:00:00,29.49,134.0,Compact,23,Friday,5,2–4 hours
+EV000197,ST031,Residential,DC Fast,2025-05-28 15:00:00,54.2,98.0,Compact,15,Wednesday,5,1–2 hours
+EV000198,ST023,Highway,DC Fast,2025-11-20 22:00:00,75.13,102.0,Van,22,Thursday,11,1–2 hours
+EV000199,ST018,Highway,DC Fast,2026-09-17 00:00:00,82.76,215.0,Van,0,Thursday,9,2–4 hours
+EV000200,ST023,Mall,Level 2,2026-07-18 09:00:00,68.45,99.0,Compact,9,Saturday,7,1–2 hours
+EV000201,ST042,Office District,DC Fast,2026-01-06 08:00:00,20.72,246.0,Sedan,8,Tuesday,1,Over 4 hours
+EV000202,ST007,Office District,Level 2,2025-11-13 23:00:00,16.26,223.0,SUV,23,Thursday,11,2–4 hours
+EV000203,ST025,Residential,Level 1,2026-03-25 00:00:00,50.57,207.0,Van,0,Wednesday,3,2–4 hours
+EV000204,ST036,Highway,Level 2,2026-07-15 23:00:00,18.06,174.0,Sedan,23,Wednesday,7,2–4 hours
+EV000205,ST045,Transit Hub,Level 2,2025-12-21 15:00:00,57.45,302.0,SUV,15,Sunday,12,Over 4 hours
+EV000206,ST028,Highway,Level 1,2025-12-16 00:00:00,18.74,277.0,Van,0,Tuesday,12,Over 4 hours
+EV000207,ST027,Mall,Level 1,2025-08-18 22:00:00,24.74,154.0,Sedan,22,Monday,8,2–4 hours
+EV000208,ST009,Highway,Level 1,2026-09-10 18:00:00,12.12,87.0,Compact,18,Thursday,9,1–2 hours
+EV000209,ST029,Office District,Level 2,2026-04-17 17:00:00,76.15,132.0,Compact,17,Friday,4,2–4 hours
+EV000210,ST048,Highway,DC Fast,2026-02-24 06:00:00,55.11,70.0,SUV,6,Tuesday,2,1–2 hours
+EV000211,ST016,Mall,Level 1,2026-07-30 06:00:00,34.45,212.0,SUV,6,Thursday,7,2–4 hours
+EV000212,ST025,Office District,Level 2,2026-02-28 19:00:00,38.72,325.0,SUV,19,Saturday,2,Over 4 hours
+EV000213,ST004,Residential,Level 1,2025-06-06 04:00:00,16.45,244.0,Sedan,4,Friday,6,Over 4 hours
+EV000214,ST014,Office District,Level 2,2026-04-10 10:00:00,77.08,293.0,Compact,10,Friday,4,Over 4 hours
+EV000215,ST001,Residential,Level 1,2025-04-19 21:00:00,30.93,133.0,SUV,21,Saturday,4,2–4 hours
+EV000216,ST044,Residential,Level 1,2025-04-24 23:00:00,11.06,340.0,Sedan,23,Thursday,4,Over 4 hours
+EV000217,ST015,Mall,Level 2,2025-02-14 02:00:00,35.53,106.0,SUV,2,Friday,2,1–2 hours
+EV000218,ST046,Office District,DC Fast,2025-04-01 18:00:00,25.66,216.0,Sedan,18,Tuesday,4,2–4 hours
+EV000220,ST009,Residential,DC Fast,2025-01-25 20:00:00,78.12,24.0,Compact,20,Saturday,1,Up to 1 hour
+EV000221,ST017,Mall,DC Fast,2026-04-05 05:00:00,68.32,260.0,SUV,5,Sunday,4,Over 4 hours
+EV000222,ST022,Transit Hub,Level 2,2026-08-20 19:00:00,25.71,185.0,Sedan,19,Thursday,8,2–4 hours
+EV000223,ST041,Highway,DC Fast,2026-04-21 07:00:00,32.32,228.0,SUV,7,Tuesday,4,2–4 hours
+EV000224,ST048,Highway,Level 2,2025-06-16 09:00:00,41.81,300.0,Van,9,Monday,6,Over 4 hours
+EV000225,ST049,Transit Hub,DC Fast,2025-02-06 01:00:00,18.73,116.0,Compact,1,Thursday,2,1–2 hours
+EV000226,ST023,Highway,Level 1,2025-11-03 16:00:00,29.23,351.0,Compact,16,Monday,11,Over 4 hours
+EV000227,ST022,Mall,Level 2,2025-09-24 04:00:00,31.22,333.0,SUV,4,Wednesday,9,Over 4 hours
+EV000230,ST010,Office District,Level 1,2026-06-09 13:00:00,41.1,272.0,Van,13,Tuesday,6,Over 4 hours
+EV000231,ST042,Residential,Level 1,2026-04-06 12:00:00,77.06,111.0,Compact,12,Monday,4,1–2 hours
+EV000232,ST018,Residential,DC Fast,2025-08-03 16:00:00,62.8,136.0,SUV,16,Sunday,8,2–4 hours
+EV000233,ST028,Residential,Level 2,2025-08-18 10:00:00,10.69,142.0,Van,10,Monday,8,2–4 hours
+EV000234,ST012,Mall,DC Fast,2026-04-07 18:00:00,48.21,50.0,Compact,18,Tuesday,4,Up to 1 hour
+EV000235,ST041,Residential,Level 2,2026-10-19 12:00:00,24.96,146.0,Van,12,Monday,10,2–4 hours
+EV000236,ST037,Highway,DC Fast,2025-08-23 03:00:00,5.11,349.0,SUV,3,Saturday,8,Over 4 hours
+EV000237,ST035,Highway,DC Fast,2026-04-28 01:00:00,53.06,31.0,Sedan,1,Tuesday,4,Up to 1 hour
+EV000238,ST042,Highway,Level 2,2026-02-04 04:00:00,21.92,303.0,SUV,4,Wednesday,2,Over 4 hours
+EV000239,ST019,Highway,Level 2,2025-04-06 19:00:00,59.99,159.0,Compact,19,Sunday,4,2–4 hours
+EV000241,ST032,Residential,DC Fast,2025-05-02 02:00:00,25.58,108.0,Sedan,2,Friday,5,1–2 hours
+EV000242,ST005,Highway,Level 2,2025-03-01 09:00:00,55.22,90.0,Sedan,9,Saturday,3,1–2 hours
+EV000243,ST002,Office District,Level 1,2025-03-23 19:00:00,55.21,173.0,SUV,19,Sunday,3,2–4 hours
+EV000244,ST038,Office District,Level 1,2025-09-19 19:00:00,77.14,107.0,Sedan,19,Friday,9,1–2 hours
+EV000245,ST025,Office District,DC Fast,2025-06-16 07:00:00,21.86,210.0,Van,7,Monday,6,2–4 hours
+EV000246,ST046,Mall,Level 2,2025-10-29 06:00:00,88.89,279.0,Compact,6,Wednesday,10,Over 4 hours
+EV000247,ST005,Transit Hub,Level 1,2026-10-12 10:00:00,36.39,134.0,Sedan,10,Monday,10,2–4 hours
+EV000248,ST035,Residential,DC Fast,2025-02-19 07:00:00,87.45,318.0,SUV,7,Wednesday,2,Over 4 hours
+EV000249,ST028,Office District,Level 1,2026-10-22 15:00:00,18.21,30.0,Van,15,Thursday,10,Up to 1 hour
+EV000250,ST004,Transit Hub,DC Fast,2025-08-01 16:00:00,85.98,67.0,Van,16,Friday,8,1–2 hours
+EV000251,ST040,Transit Hub,Level 2,2025-07-11 14:00:00,86.95,335.0,SUV,14,Friday,7,Over 4 hours
+EV000252,ST004,Mall,DC Fast,2025-02-24 20:00:00,29.69,305.0,SUV,20,Monday,2,Over 4 hours
+EV000253,ST008,Office District,Level 1,2025-06-13 13:00:00,22.27,59.0,Compact,13,Friday,6,Up to 1 hour
+EV000254,ST046,Transit Hub,DC Fast,2026-10-16 16:00:00,56.25,162.0,Compact,16,Friday,10,2–4 hours
+EV000255,ST020,Residential,Level 2,2025-06-21 09:00:00,16.67,139.0,SUV,9,Saturday,6,2–4 hours
+EV000256,ST041,Residential,DC Fast,2026-06-23 05:00:00,30.09,54.0,Compact,5,Tuesday,6,Up to 1 hour
+EV000257,ST027,Highway,Level 1,2025-12-05 11:00:00,88.55,267.0,Compact,11,Friday,12,Over 4 hours
+EV000258,ST024,Highway,Level 1,2025-01-23 15:00:00,70.02,167.0,Compact,15,Thursday,1,2–4 hours
+EV000259,ST010,Mall,DC Fast,2025-11-19 01:00:00,72.66,319.0,Compact,1,Wednesday,11,Over 4 hours
+EV000260,ST007,Office District,DC Fast,2025-02-28 11:00:00,79.24,139.0,SUV,11,Friday,2,2–4 hours
+EV000261,ST002,Residential,DC Fast,2025-10-28 03:00:00,63.6,239.0,Sedan,3,Tuesday,10,2–4 hours
+EV000262,ST002,Mall,DC Fast,2025-11-18 06:00:00,65.91,326.0,Compact,6,Tuesday,11,Over 4 hours
+EV000263,ST001,Office District,Level 2,2025-02-23 17:00:00,67.27,101.0,Sedan,17,Sunday,2,1–2 hours
+EV000264,ST047,Mall,DC Fast,2026-02-08 08:00:00,38.27,155.0,Compact,8,Sunday,2,2–4 hours
+EV000265,ST013,Office District,Level 2,2025-06-22 16:00:00,13.51,245.0,Van,16,Sunday,6,Over 4 hours
+EV000266,ST044,Residential,Level 1,2026-06-17 12:00:00,56.85,253.0,Van,12,Wednesday,6,Over 4 hours
+EV000268,ST026,Residential,Level 1,2026-08-05 11:00:00,24.93,45.0,Compact,11,Wednesday,8,Up to 1 hour
+EV000269,ST023,Office District,Level 1,2025-05-25 19:00:00,20.5,273.0,Compact,19,Sunday,5,Over 4 hours
+EV000270,ST041,Highway,Level 1,2026-03-14 13:00:00,86.35,255.0,Van,13,Saturday,3,Over 4 hours
+EV000272,ST006,Mall,Level 2,2025-01-03 07:00:00,51.65,297.0,Van,7,Friday,1,Over 4 hours
+EV000273,ST021,Highway,Level 2,2025-04-14 12:00:00,68.0,49.0,Sedan,12,Monday,4,Up to 1 hour
+EV000274,ST044,Highway,DC Fast,2025-07-13 07:00:00,13.08,203.0,SUV,7,Sunday,7,2–4 hours
+EV000275,ST005,Highway,Level 2,2025-08-29 23:00:00,52.65,199.0,Van,23,Friday,8,2–4 hours
+EV000276,ST041,Residential,Level 2,2026-08-14 21:00:00,62.82,52.0,Compact,21,Friday,8,Up to 1 hour
+EV000277,ST016,Office District,Level 2,2026-05-23 06:00:00,8.71,34.0,SUV,6,Saturday,5,Up to 1 hour
+EV000278,ST035,Highway,Level 1,2025-05-16 04:00:00,40.69,355.0,Compact,4,Friday,5,Over 4 hours
+EV000279,ST015,Office District,Level 2,2026-01-31 07:00:00,45.31,231.0,Van,7,Saturday,1,2–4 hours
+EV000280,ST027,Office District,Level 1,2025-02-01 01:00:00,52.25,308.0,Van,1,Saturday,2,Over 4 hours
+EV000281,ST028,Transit Hub,DC Fast,2026-09-03 00:00:00,8.37,127.0,SUV,0,Thursday,9,2–4 hours
+EV000282,ST012,Residential,Level 2,2026-04-07 00:00:00,80.95,195.0,Compact,0,Tuesday,4,2–4 hours
+EV000283,ST032,Transit Hub,DC Fast,2025-07-12 03:00:00,78.15,319.0,Van,3,Saturday,7,Over 4 hours
+EV000284,ST005,Office District,Level 2,2026-03-27 16:00:00,77.53,168.0,Compact,16,Friday,3,2–4 hours
+EV000285,ST001,Transit Hub,DC Fast,2025-01-07 19:00:00,49.17,190.0,Van,19,Tuesday,1,2–4 hours
+EV000286,ST033,Transit Hub,Level 1,2025-06-24 01:00:00,71.99,313.0,SUV,1,Tuesday,6,Over 4 hours
+EV000287,ST027,Highway,DC Fast,2025-12-05 15:00:00,73.11,31.0,Van,15,Friday,12,Up to 1 hour
+EV000288,ST029,Office District,Level 1,2026-02-26 13:00:00,86.87,207.0,Sedan,13,Thursday,2,2–4 hours
+EV000289,ST013,Residential,Level 2,2025-05-29 04:00:00,74.38,237.0,Sedan,4,Thursday,5,2–4 hours
+EV000290,ST003,Residential,DC Fast,2026-01-24 15:00:00,15.15,310.0,Sedan,15,Saturday,1,Over 4 hours
+EV000291,ST038,Residential,DC Fast,2025-03-24 16:00:00,17.13,302.0,Van,16,Monday,3,Over 4 hours
+EV000292,ST015,Office District,Level 2,2025-04-03 22:00:00,48.23,78.0,Sedan,22,Thursday,4,1–2 hours
+EV000293,ST017,Highway,Level 2,2025-01-12 03:00:00,65.3,35.0,SUV,3,Sunday,1,Up to 1 hour
+EV000294,ST043,Highway,Level 2,2026-05-27 00:00:00,76.0,87.0,SUV,0,Wednesday,5,1–2 hours
+EV000295,ST045,Mall,Level 1,2026-01-28 09:00:00,6.01,273.0,SUV,9,Wednesday,1,Over 4 hours
+EV000296,ST018,Highway,Level 2,2025-05-27 16:00:00,41.86,97.0,Sedan,16,Tuesday,5,1–2 hours
+EV000298,ST048,Transit Hub,DC Fast,2026-06-10 14:00:00,64.03,338.0,Compact,14,Wednesday,6,Over 4 hours
+EV000299,ST018,Office District,DC Fast,2025-08-05 07:00:00,52.11,251.0,SUV,7,Tuesday,8,Over 4 hours
+EV000300,ST028,Highway,Level 1,2025-06-28 05:00:00,73.23,61.0,Compact,5,Saturday,6,1–2 hours
+EV000301,ST007,Highway,Level 2,2025-09-13 16:00:00,64.51,186.0,Compact,16,Saturday,9,2–4 hours
+EV000302,ST043,Highway,Level 1,2025-05-26 16:00:00,45.85,113.0,Sedan,16,Monday,5,1–2 hours
+EV000303,ST009,Office District,Level 2,2026-05-26 00:00:00,25.21,240.0,Van,0,Tuesday,5,2–4 hours
+EV000304,ST016,Transit Hub,DC Fast,2026-08-10 21:00:00,59.76,168.0,SUV,21,Monday,8,2–4 hours
+EV000305,ST034,Mall,DC Fast,2025-06-05 07:00:00,24.28,186.0,Van,7,Thursday,6,2–4 hours
+EV000306,ST043,Mall,DC Fast,2026-09-08 13:00:00,60.04,226.0,Sedan,13,Tuesday,9,2–4 hours
+EV000308,ST042,Mall,Level 1,2026-03-15 07:00:00,23.02,340.0,Van,7,Sunday,3,Over 4 hours
+EV000309,ST027,Transit Hub,DC Fast,2026-10-27 20:00:00,41.52,36.0,SUV,20,Tuesday,10,Up to 1 hour
+EV000310,ST024,Mall,Level 2,2026-09-03 12:00:00,49.1,266.0,Van,12,Thursday,9,Over 4 hours
+EV000311,ST007,Highway,Level 2,2025-02-03 04:00:00,86.06,188.0,SUV,4,Monday,2,2–4 hours
+EV000312,ST018,Residential,Level 2,2025-03-17 08:00:00,56.64,255.0,Compact,8,Monday,3,Over 4 hours
+EV000313,ST006,Residential,DC Fast,2026-03-16 07:00:00,41.1,286.0,Compact,7,Monday,3,Over 4 hours
+EV000314,ST013,Mall,DC Fast,2026-02-18 18:00:00,75.38,314.0,Sedan,18,Wednesday,2,Over 4 hours
+EV000315,ST022,Mall,Level 1,2026-04-02 03:00:00,16.84,37.0,Van,3,Thursday,4,Up to 1 hour
+EV000316,ST047,Residential,Level 2,2025-04-24 09:00:00,6.26,145.0,SUV,9,Thursday,4,2–4 hours
+EV000317,ST047,Highway,Level 2,2025-10-10 11:00:00,26.73,32.0,SUV,11,Friday,10,Up to 1 hour
+EV000318,ST029,Highway,Level 2,2025-11-19 02:00:00,50.29,133.0,Sedan,2,Wednesday,11,2–4 hours
+EV000319,ST021,Highway,DC Fast,2026-06-25 06:00:00,59.09,77.0,SUV,6,Thursday,6,1–2 hours
+EV000320,ST018,Residential,Level 1,2026-03-09 13:00:00,73.13,243.0,Van,13,Monday,3,Over 4 hours
+EV000321,ST045,Mall,Level 1,2026-03-26 04:00:00,56.28,120.0,Compact,4,Thursday,3,1–2 hours
+EV000322,ST019,Transit Hub,Level 2,2025-08-17 13:00:00,14.87,184.0,Compact,13,Sunday,8,2–4 hours
+EV000324,ST023,Highway,Level 1,2025-02-28 20:00:00,6.06,46.0,Sedan,20,Friday,2,Up to 1 hour
+EV000325,ST006,Highway,Level 2,2025-03-28 11:00:00,64.96,301.0,Sedan,11,Friday,3,Over 4 hours
+EV000326,ST020,Transit Hub,Level 2,2025-10-13 11:00:00,49.32,178.0,Compact,11,Monday,10,2–4 hours
+EV000327,ST046,Transit Hub,Level 1,2026-01-02 07:00:00,47.09,30.0,Sedan,7,Friday,1,Up to 1 hour
+EV000328,ST020,Transit Hub,Level 1,2025-07-13 01:00:00,68.34,54.0,Sedan,1,Sunday,7,Up to 1 hour
+EV000329,ST036,Office District,Level 2,2025-04-22 23:00:00,8.75,285.0,Compact,23,Tuesday,4,Over 4 hours
+EV000330,ST049,Highway,DC Fast,2025-12-04 06:00:00,39.9,338.0,SUV,6,Thursday,12,Over 4 hours
+EV000331,ST005,Residential,Level 1,2025-02-23 03:00:00,85.03,262.0,SUV,3,Sunday,2,Over 4 hours
+EV000332,ST044,Residential,DC Fast,2025-05-21 02:00:00,6.17,120.0,Compact,2,Wednesday,5,1–2 hours
+EV000333,ST036,Highway,DC Fast,2025-10-12 17:00:00,79.58,189.0,Compact,17,Sunday,10,2–4 hours
+EV000334,ST033,Transit Hub,Level 2,2025-12-03 09:00:00,60.13,113.0,SUV,9,Wednesday,12,1–2 hours
+EV000335,ST025,Residential,Level 2,2025-03-08 12:00:00,82.19,85.0,Van,12,Saturday,3,1–2 hours
+EV000336,ST034,Mall,DC Fast,2026-06-23 02:00:00,8.9,314.0,Van,2,Tuesday,6,Over 4 hours
+EV000337,ST007,Office District,DC Fast,2025-01-01 09:00:00,73.62,48.0,SUV,9,Wednesday,1,Up to 1 hour
+EV000338,ST046,Office District,Level 1,2025-12-01 07:00:00,50.17,166.0,Van,7,Monday,12,2–4 hours
+EV000339,ST012,Transit Hub,DC Fast,2026-10-12 16:00:00,26.12,73.0,Compact,16,Monday,10,1–2 hours
+EV000340,ST008,Transit Hub,DC Fast,2026-08-24 17:00:00,45.04,187.0,Compact,17,Monday,8,2–4 hours
+EV000341,ST035,Residential,DC Fast,2026-08-10 03:00:00,83.46,133.0,SUV,3,Monday,8,2–4 hours
+EV000342,ST004,Mall,Level 2,2026-04-20 20:00:00,42.35,152.0,Compact,20,Monday,4,2–4 hours
+EV000343,ST016,Highway,Level 2,2025-05-05 22:00:00,16.63,200.0,Van,22,Monday,5,2–4 hours
+EV000344,ST012,Transit Hub,Level 2,2026-02-27 02:00:00,10.57,128.0,Sedan,2,Friday,2,2–4 hours
+EV000345,ST047,Residential,Level 1,2025-04-11 19:00:00,6.22,138.0,Van,19,Friday,4,2–4 hours
+EV000346,ST013,Office District,Level 2,2026-10-17 19:00:00,22.95,118.0,Sedan,19,Saturday,10,1–2 hours
+EV000347,ST041,Mall,Level 1,2025-08-18 17:00:00,51.7,209.0,Compact,17,Monday,8,2–4 hours
+EV000348,ST029,Highway,DC Fast,2025-01-31 23:00:00,34.78,247.0,Compact,23,Friday,1,Over 4 hours
+EV000349,ST028,Residential,Level 1,2025-03-17 22:00:00,79.38,319.0,SUV,22,Monday,3,Over 4 hours
+EV000350,ST034,Office District,Level 2,2025-03-05 08:00:00,71.81,358.0,Compact,8,Wednesday,3,Over 4 hours
+EV000351,ST031,Office District,DC Fast,2025-08-15 22:00:00,44.51,64.0,Van,22,Friday,8,1–2 hours
+EV000352,ST013,Highway,Level 2,2025-04-29 04:00:00,24.58,256.0,Van,4,Tuesday,4,Over 4 hours
+EV000353,ST046,Mall,DC Fast,2026-04-17 04:00:00,40.25,324.0,SUV,4,Friday,4,Over 4 hours
+EV000354,ST002,Highway,Level 1,2026-04-13 17:00:00,59.22,61.0,SUV,17,Monday,4,1–2 hours
+EV000355,ST016,Mall,Level 1,2025-06-10 21:00:00,6.97,86.0,Compact,21,Tuesday,6,1–2 hours
+EV000356,ST015,Transit Hub,Level 2,2025-03-16 04:00:00,80.58,70.0,Sedan,4,Sunday,3,1–2 hours
+EV000357,ST040,Transit Hub,Level 1,2026-06-05 18:00:00,60.65,187.0,Van,18,Friday,6,2–4 hours
+EV000358,ST024,Mall,DC Fast,2025-02-04 18:00:00,86.82,291.0,Sedan,18,Tuesday,2,Over 4 hours
+EV000359,ST022,Transit Hub,Level 1,2026-09-10 10:00:00,61.46,269.0,Compact,10,Thursday,9,Over 4 hours
+EV000360,ST001,Residential,DC Fast,2025-07-12 20:00:00,35.83,257.0,SUV,20,Saturday,7,Over 4 hours
+EV000361,ST043,Mall,Level 2,2025-01-26 12:00:00,42.23,256.0,SUV,12,Sunday,1,Over 4 hours
+EV000362,ST020,Office District,Level 1,2026-04-23 13:00:00,5.59,302.0,Sedan,13,Thursday,4,Over 4 hours
+EV000363,ST004,Highway,Level 2,2025-12-28 13:00:00,9.86,277.0,Sedan,13,Sunday,12,Over 4 hours
+EV000364,ST014,Mall,Level 2,2026-08-12 14:00:00,13.75,183.0,Compact,14,Wednesday,8,2–4 hours
+EV000365,ST036,Residential,DC Fast,2025-02-21 12:00:00,38.45,262.0,Van,12,Friday,2,Over 4 hours
+EV000366,ST002,Office District,Level 1,2025-10-05 21:00:00,29.39,33.0,Sedan,21,Sunday,10,Up to 1 hour
+EV000367,ST040,Residential,Level 2,2026-01-04 10:00:00,39.06,25.0,Sedan,10,Sunday,1,Up to 1 hour
+EV000368,ST023,Mall,Level 2,2025-08-02 06:00:00,39.52,174.0,Sedan,6,Saturday,8,2–4 hours
+EV000369,ST031,Mall,Level 2,2025-01-25 14:00:00,34.83,188.0,Sedan,14,Saturday,1,2–4 hours
+EV000370,ST037,Transit Hub,DC Fast,2025-03-19 11:00:00,48.67,296.0,SUV,11,Wednesday,3,Over 4 hours
+EV000371,ST015,Transit Hub,DC Fast,2025-11-29 19:00:00,84.53,148.0,Sedan,19,Saturday,11,2–4 hours
+EV000373,ST008,Residential,Level 1,2025-10-13 22:00:00,74.72,335.0,Compact,22,Monday,10,Over 4 hours
+EV000374,ST025,Transit Hub,Level 1,2026-02-18 20:00:00,71.26,256.0,SUV,20,Wednesday,2,Over 4 hours
+EV000375,ST037,Highway,DC Fast,2026-10-03 15:00:00,40.48,344.0,Van,15,Saturday,10,Over 4 hours
+EV000376,ST008,Residential,Level 2,2025-02-14 11:00:00,25.37,234.0,Compact,11,Friday,2,2–4 hours
+EV000377,ST007,Transit Hub,DC Fast,2025-05-02 22:00:00,7.69,107.0,Sedan,22,Friday,5,1–2 hours
+EV000379,ST042,Transit Hub,DC Fast,2025-03-14 23:00:00,23.62,262.0,Compact,23,Friday,3,Over 4 hours
+EV000380,ST044,Transit Hub,Level 1,2025-09-24 23:00:00,79.56,73.0,SUV,23,Wednesday,9,1–2 hours
+EV000381,ST025,Mall,DC Fast,2025-02-18 15:00:00,13.96,100.0,Compact,15,Tuesday,2,1–2 hours
+EV000382,ST028,Transit Hub,DC Fast,2025-02-02 23:00:00,75.16,279.0,Compact,23,Sunday,2,Over 4 hours
+EV000384,ST026,Highway,Level 1,2025-03-17 01:00:00,59.87,243.0,Sedan,1,Monday,3,Over 4 hours
+EV000385,ST012,Residential,DC Fast,2026-01-28 12:00:00,17.22,121.0,Compact,12,Wednesday,1,2–4 hours
+EV000386,ST024,Office District,DC Fast,2026-01-27 07:00:00,72.49,43.0,Sedan,7,Tuesday,1,Up to 1 hour
+EV000387,ST001,Residential,DC Fast,2026-10-14 21:00:00,12.63,268.0,Compact,21,Wednesday,10,Over 4 hours
+EV000388,ST026,Residential,Level 1,2026-07-27 16:00:00,49.46,107.0,Compact,16,Monday,7,1–2 hours
+EV000389,ST045,Transit Hub,DC Fast,2026-02-03 03:00:00,13.76,29.0,Van,3,Tuesday,2,Up to 1 hour
+EV000390,ST035,Transit Hub,DC Fast,2026-09-06 14:00:00,77.68,212.0,Van,14,Sunday,9,2–4 hours
+EV000391,ST030,Residential,Level 2,2026-03-13 17:00:00,55.01,258.0,Sedan,17,Friday,3,Over 4 hours
+EV000392,ST012,Mall,Level 1,2026-09-18 09:00:00,51.38,159.0,Van,9,Friday,9,2–4 hours
+EV000393,ST035,Highway,Level 1,2026-02-16 22:00:00,28.18,163.0,Sedan,22,Monday,2,2–4 hours
+EV000394,ST046,Transit Hub,DC Fast,2026-07-22 17:00:00,48.44,175.0,Sedan,17,Wednesday,7,2–4 hours
+EV000395,ST048,Residential,Level 2,2025-04-28 17:00:00,6.76,271.0,Van,17,Monday,4,Over 4 hours
+EV000396,ST047,Office District,Level 2,2026-10-13 07:00:00,45.87,319.0,Van,7,Tuesday,10,Over 4 hours
+EV000397,ST011,Office District,DC Fast,2026-09-24 22:00:00,23.22,51.0,Sedan,22,Thursday,9,Up to 1 hour
+EV000398,ST011,Residential,Level 2,2025-02-09 16:00:00,80.83,82.0,SUV,16,Sunday,2,1–2 hours
+EV000399,ST004,Office District,Level 1,2026-10-26 17:00:00,28.15,315.0,Van,17,Monday,10,Over 4 hours
+EV000400,ST045,Office District,Level 2,2025-10-04 19:00:00,48.46,135.0,Compact,19,Saturday,10,2–4 hours
+EV000401,ST024,Office District,DC Fast,2025-04-15 23:00:00,5.27,246.0,SUV,23,Tuesday,4,Over 4 hours
+EV000402,ST029,Mall,DC Fast,2026-05-02 16:00:00,68.14,31.0,Van,16,Saturday,5,Up to 1 hour
+EV000403,ST021,Highway,Level 2,2025-06-16 23:00:00,18.66,146.0,SUV,23,Monday,6,2–4 hours
+EV000404,ST033,Office District,Level 2,2026-03-25 05:00:00,89.9,221.0,SUV,5,Wednesday,3,2–4 hours
+EV000405,ST004,Mall,DC Fast,2026-01-17 15:00:00,29.89,136.0,SUV,15,Saturday,1,2–4 hours
+EV000406,ST017,Highway,Level 2,2026-03-20 10:00:00,61.56,112.0,Van,10,Friday,3,1–2 hours
+EV000407,ST024,Office District,Level 2,2026-09-07 14:00:00,86.6,120.0,SUV,14,Monday,9,1–2 hours
+EV000408,ST008,Mall,Level 1,2026-04-16 21:00:00,69.29,250.0,Compact,21,Thursday,4,Over 4 hours
+EV000410,ST035,Highway,DC Fast,2025-06-25 01:00:00,83.27,119.0,Sedan,1,Wednesday,6,1–2 hours
+EV000411,ST006,Mall,DC Fast,2025-09-10 18:00:00,23.08,33.0,Compact,18,Wednesday,9,Up to 1 hour
+EV000412,ST041,Highway,Level 2,2025-04-13 22:00:00,58.93,109.0,Van,22,Sunday,4,1–2 hours
+EV000413,ST035,Residential,Level 2,2025-09-12 14:00:00,68.33,262.0,SUV,14,Friday,9,Over 4 hours
+EV000414,ST004,Mall,Level 2,2025-01-10 14:00:00,35.34,302.0,Sedan,14,Friday,1,Over 4 hours
+EV000415,ST017,Residential,DC Fast,2025-09-25 17:00:00,75.66,287.0,Van,17,Thursday,9,Over 4 hours
+EV000416,ST037,Transit Hub,Level 2,2025-01-10 23:00:00,45.17,357.0,SUV,23,Friday,1,Over 4 hours
+EV000417,ST028,Mall,DC Fast,2026-09-15 01:00:00,78.23,106.0,Compact,1,Tuesday,9,1–2 hours
+EV000418,ST002,Residential,DC Fast,2025-06-20 19:00:00,23.24,271.0,SUV,19,Friday,6,Over 4 hours
+EV000419,ST032,Mall,Level 2,2026-05-31 22:00:00,81.13,67.0,Compact,22,Sunday,5,1–2 hours
+EV000420,ST015,Office District,Level 1,2025-04-07 00:00:00,50.31,325.0,SUV,0,Monday,4,Over 4 hours
+EV000421,ST018,Highway,Level 1,2026-06-20 10:00:00,41.44,350.0,SUV,10,Saturday,6,Over 4 hours
+EV000422,ST003,Residential,Level 2,2025-01-16 16:00:00,25.01,187.0,Sedan,16,Thursday,1,2–4 hours
+EV000423,ST037,Residential,Level 1,2025-01-29 02:00:00,13.76,235.0,Van,2,Wednesday,1,2–4 hours
+EV000424,ST014,Residential,Level 1,2025-07-10 04:00:00,29.75,119.0,SUV,4,Thursday,7,1–2 hours
+EV000425,ST033,Highway,Level 2,2025-07-27 09:00:00,38.8,255.0,Sedan,9,Sunday,7,Over 4 hours
+EV000426,ST022,Residential,DC Fast,2026-06-25 22:00:00,55.93,100.0,Sedan,22,Thursday,6,1–2 hours
+EV000427,ST003,Highway,DC Fast,2026-06-09 12:00:00,66.48,235.0,Van,12,Tuesday,6,2–4 hours
+EV000428,ST006,Transit Hub,Level 2,2025-12-16 21:00:00,8.63,176.0,Compact,21,Tuesday,12,2–4 hours
+EV000429,ST007,Residential,Level 2,2025-03-21 23:00:00,85.87,104.0,Compact,23,Friday,3,1–2 hours
+EV000431,ST003,Residential,Level 2,2025-06-24 14:00:00,62.68,292.0,Van,14,Tuesday,6,Over 4 hours
+EV000432,ST002,Highway,Level 2,2026-03-23 16:00:00,73.57,43.0,Compact,16,Monday,3,Up to 1 hour
+EV000433,ST043,Office District,DC Fast,2026-07-05 01:00:00,40.47,183.0,Van,1,Sunday,7,2–4 hours
+EV000434,ST046,Office District,Level 1,2025-06-15 07:00:00,42.21,244.0,Compact,7,Sunday,6,Over 4 hours
+EV000435,ST018,Mall,Level 1,2026-01-09 01:00:00,9.06,109.0,Sedan,1,Friday,1,1–2 hours
+EV000436,ST005,Transit Hub,Level 2,2026-05-14 03:00:00,39.69,109.0,SUV,3,Thursday,5,1–2 hours
+EV000437,ST027,Mall,Level 2,2025-12-30 09:00:00,84.66,221.0,SUV,9,Tuesday,12,2–4 hours
+EV000438,ST035,Transit Hub,Level 2,2025-09-19 22:00:00,36.38,153.0,Van,22,Friday,9,2–4 hours
+EV000439,ST026,Residential,DC Fast,2025-07-17 20:00:00,81.27,320.0,Compact,20,Thursday,7,Over 4 hours
+EV000440,ST021,Highway,Level 1,2026-04-01 09:00:00,64.58,256.0,Sedan,9,Wednesday,4,Over 4 hours
+EV000441,ST024,Residential,Level 1,2025-03-04 08:00:00,80.21,283.0,Sedan,8,Tuesday,3,Over 4 hours
+EV000442,ST005,Mall,Level 1,2026-01-11 23:00:00,21.65,315.0,SUV,23,Sunday,1,Over 4 hours
+EV000443,ST020,Mall,DC Fast,2026-08-02 23:00:00,61.84,261.0,Compact,23,Sunday,8,Over 4 hours
+EV000444,ST006,Office District,DC Fast,2025-05-31 13:00:00,13.45,213.0,SUV,13,Saturday,5,2–4 hours
+EV000445,ST017,Residential,Level 2,2025-05-02 00:00:00,46.43,110.0,SUV,0,Friday,5,1–2 hours
+EV000446,ST006,Transit Hub,Level 1,2026-01-21 09:00:00,66.56,108.0,Compact,9,Wednesday,1,1–2 hours
+EV000447,ST013,Transit Hub,DC Fast,2025-12-19 13:00:00,18.75,114.0,Van,13,Friday,12,1–2 hours
+EV000448,ST010,Mall,Level 1,2025-04-10 17:00:00,86.49,41.0,Van,17,Thursday,4,Up to 1 hour
+EV000449,ST012,Mall,DC Fast,2026-02-01 23:00:00,44.93,302.0,Sedan,23,Sunday,2,Over 4 hours
+EV000450,ST008,Transit Hub,Level 1,2025-02-23 15:00:00,43.04,338.0,Van,15,Sunday,2,Over 4 hours
+EV000451,ST032,Highway,DC Fast,2025-11-16 11:00:00,80.31,291.0,Sedan,11,Sunday,11,Over 4 hours
+EV000452,ST014,Office District,Level 2,2025-02-13 12:00:00,78.12,119.0,Sedan,12,Thursday,2,1–2 hours
+EV000453,ST035,Residential,DC Fast,2026-06-29 12:00:00,82.93,312.0,SUV,12,Monday,6,Over 4 hours
+EV000454,ST025,Mall,Level 2,2026-10-11 14:00:00,61.93,226.0,SUV,14,Sunday,10,2–4 hours
+EV000455,ST012,Highway,Level 2,2025-01-04 07:00:00,61.27,342.0,Sedan,7,Saturday,1,Over 4 hours
+EV000456,ST010,Transit Hub,DC Fast,2026-03-05 04:00:00,24.53,276.0,Compact,4,Thursday,3,Over 4 hours
+EV000457,ST007,Office District,Level 1,2025-08-31 19:00:00,68.09,144.0,Van,19,Sunday,8,2–4 hours
+EV000458,ST043,Mall,Level 1,2025-03-10 17:00:00,57.83,213.0,Compact,17,Monday,3,2–4 hours
+EV000459,ST038,Transit Hub,DC Fast,2026-04-14 22:00:00,34.16,223.0,Sedan,22,Tuesday,4,2–4 hours
+EV000460,ST029,Residential,Level 1,2026-08-11 16:00:00,87.16,157.0,Van,16,Tuesday,8,2–4 hours
+EV000461,ST004,Office District,DC Fast,2025-02-02 10:00:00,46.33,211.0,Compact,10,Sunday,2,2–4 hours
+EV000462,ST028,Mall,Level 1,2025-04-07 21:00:00,66.49,271.0,SUV,21,Monday,4,Over 4 hours
+EV000463,ST028,Highway,Level 1,2026-09-09 21:00:00,61.61,123.0,SUV,21,Wednesday,9,2–4 hours
+EV000464,ST048,Transit Hub,Level 1,2025-01-16 15:00:00,5.9,97.0,Van,15,Thursday,1,1–2 hours
+EV000465,ST024,Highway,DC Fast,2025-09-11 03:00:00,43.82,205.0,Van,3,Thursday,9,2–4 hours
+EV000466,ST006,Transit Hub,Level 1,2026-09-03 21:00:00,56.59,283.0,Sedan,21,Thursday,9,Over 4 hours
+EV000467,ST035,Highway,DC Fast,2026-02-03 16:00:00,89.99,354.0,Van,16,Tuesday,2,Over 4 hours
+EV000468,ST023,Highway,DC Fast,2025-05-11 06:00:00,18.12,317.0,SUV,6,Sunday,5,Over 4 hours
+EV000469,ST040,Residential,Level 2,2025-01-07 07:00:00,62.97,338.0,Van,7,Tuesday,1,Over 4 hours
+EV000470,ST049,Transit Hub,Level 1,2025-12-17 02:00:00,42.11,131.0,Sedan,2,Wednesday,12,2–4 hours
+EV000471,ST046,Highway,DC Fast,2025-12-27 02:00:00,44.99,196.0,SUV,2,Saturday,12,2–4 hours
+EV000472,ST029,Residential,Level 1,2025-12-07 09:00:00,18.46,118.0,Compact,9,Sunday,12,1–2 hours
+EV000473,ST014,Highway,DC Fast,2025-05-19 14:00:00,50.06,103.0,SUV,14,Monday,5,1–2 hours
+EV000475,ST002,Highway,Level 1,2025-08-13 13:00:00,40.2,303.0,Sedan,13,Wednesday,8,Over 4 hours
+EV000476,ST032,Residential,Level 1,2026-09-06 14:00:00,39.47,155.0,Van,14,Sunday,9,2–4 hours
+EV000477,ST028,Highway,Level 1,2026-09-20 13:00:00,19.75,311.0,Van,13,Sunday,9,Over 4 hours
+EV000478,ST042,Transit Hub,Level 2,2025-05-17 14:00:00,89.8,105.0,Compact,14,Saturday,5,1–2 hours
+EV000479,ST019,Highway,Level 1,2026-04-26 17:00:00,65.56,211.0,Van,17,Sunday,4,2–4 hours
+EV000480,ST037,Residential,Level 2,2025-11-12 20:00:00,86.23,157.0,Van,20,Wednesday,11,2–4 hours
+EV000481,ST022,Transit Hub,DC Fast,2026-03-09 11:00:00,68.11,179.0,Sedan,11,Monday,3,2–4 hours
+EV000482,ST028,Office District,DC Fast,2025-12-31 14:00:00,46.98,239.0,Compact,14,Wednesday,12,2–4 hours
+EV000483,ST042,Transit Hub,Level 1,2026-10-24 09:00:00,57.08,81.0,SUV,9,Saturday,10,1–2 hours
+EV000484,ST017,Residential,Level 2,2026-02-04 20:00:00,19.27,170.0,Van,20,Wednesday,2,2–4 hours
+EV000485,ST018,Mall,Level 2,2025-04-30 17:00:00,18.0,132.0,Compact,17,Wednesday,4,2–4 hours
+EV000487,ST027,Transit Hub,Level 1,2025-02-10 17:00:00,22.26,24.0,Compact,17,Monday,2,Up to 1 hour
+EV000488,ST003,Office District,Level 2,2026-04-25 03:00:00,70.45,315.0,Compact,3,Saturday,4,Over 4 hours
+EV000489,ST007,Highway,Level 2,2026-05-30 12:00:00,30.24,169.0,SUV,12,Saturday,5,2–4 hours
+EV000490,ST027,Highway,Level 2,2025-12-26 20:00:00,12.42,341.0,SUV,20,Friday,12,Over 4 hours
+EV000491,ST039,Residential,Level 2,2025-01-16 14:00:00,54.76,63.0,Compact,14,Thursday,1,1–2 hours
+EV000492,ST004,Residential,DC Fast,2025-08-12 01:00:00,52.21,140.0,SUV,1,Tuesday,8,2–4 hours
+EV000493,ST025,Highway,Level 1,2026-06-06 12:00:00,27.2,195.0,Van,12,Saturday,6,2–4 hours
+EV000494,ST041,Highway,Level 2,2026-07-27 19:00:00,15.94,127.0,SUV,19,Monday,7,2–4 hours
+EV000496,ST048,Highway,Level 1,2025-11-10 21:00:00,67.93,27.0,Sedan,21,Monday,11,Up to 1 hour
+EV000497,ST022,Residential,Level 2,2025-06-01 09:00:00,21.07,321.0,Sedan,9,Sunday,6,Over 4 hours
+EV000498,ST034,Highway,Level 1,2025-11-10 11:00:00,68.4,225.0,SUV,11,Monday,11,2–4 hours
+EV000499,ST012,Office District,Level 2,2026-03-05 19:00:00,60.72,61.0,SUV,19,Thursday,3,1–2 hours
+EV000500,ST044,Mall,Level 2,2026-09-23 15:00:00,70.83,304.0,Compact,15,Wednesday,9,Over 4 hours
+EV000501,ST028,Transit Hub,DC Fast,2025-11-27 16:00:00,10.43,169.0,Sedan,16,Thursday,11,2–4 hours
+EV000502,ST023,Transit Hub,Level 1,2025-02-20 06:00:00,87.11,349.0,Sedan,6,Thursday,2,Over 4 hours
+EV000503,ST012,Residential,Level 1,2025-05-07 17:00:00,61.06,67.0,Compact,17,Wednesday,5,1–2 hours
+EV000504,ST039,Highway,Level 1,2025-11-26 09:00:00,27.0,130.0,Sedan,9,Wednesday,11,2–4 hours
+EV000505,ST018,Mall,DC Fast,2026-06-24 23:00:00,79.56,213.0,Compact,23,Wednesday,6,2–4 hours
+EV000506,ST047,Highway,DC Fast,2026-02-03 10:00:00,54.36,257.0,Compact,10,Tuesday,2,Over 4 hours
+EV000507,ST005,Highway,DC Fast,2025-07-13 12:00:00,18.65,127.0,Sedan,12,Sunday,7,2–4 hours
+EV000508,ST049,Mall,DC Fast,2026-09-24 00:00:00,77.47,135.0,Sedan,0,Thursday,9,2–4 hours
+EV000509,ST015,Highway,Level 1,2025-06-13 22:00:00,66.39,55.0,SUV,22,Friday,6,Up to 1 hour
+EV000510,ST001,Mall,Level 1,2025-01-14 03:00:00,28.83,307.0,Sedan,3,Tuesday,1,Over 4 hours
+EV000511,ST019,Highway,Level 2,2026-04-11 09:00:00,51.22,224.0,Van,9,Saturday,4,2–4 hours
+EV000512,ST017,Highway,DC Fast,2025-02-04 08:00:00,38.93,329.0,Compact,8,Tuesday,2,Over 4 hours
+EV000513,ST039,Office District,Level 1,2025-10-08 21:00:00,5.58,202.0,Van,21,Wednesday,10,2–4 hours
+EV000514,ST048,Transit Hub,DC Fast,2025-04-11 15:00:00,45.61,303.0,SUV,15,Friday,4,Over 4 hours
+EV000515,ST032,Highway,DC Fast,2025-08-18 13:00:00,25.03,91.0,Compact,13,Monday,8,1–2 hours
+EV000516,ST031,Transit Hub,DC Fast,2025-08-18 16:00:00,18.13,117.0,SUV,16,Monday,8,1–2 hours
+EV000517,ST006,Transit Hub,Level 1,2026-01-10 13:00:00,12.87,348.0,Sedan,13,Saturday,1,Over 4 hours
+EV000518,ST012,Highway,Level 2,2026-10-15 09:00:00,23.99,78.0,SUV,9,Thursday,10,1–2 hours
+EV000519,ST030,Mall,Level 1,2026-03-18 20:00:00,69.56,288.0,Van,20,Wednesday,3,Over 4 hours
+EV000520,ST034,Transit Hub,Level 2,2025-04-10 12:00:00,35.49,315.0,Sedan,12,Thursday,4,Over 4 hours
+EV000521,ST022,Residential,DC Fast,2025-03-25 22:00:00,16.82,229.0,Sedan,22,Tuesday,3,2–4 hours
+EV000522,ST041,Residential,Level 2,2025-08-16 01:00:00,19.41,255.0,Sedan,1,Saturday,8,Over 4 hours
+EV000524,ST043,Residential,Level 1,2025-10-20 11:00:00,39.29,23.0,SUV,11,Monday,10,Up to 1 hour
+EV000525,ST006,Residential,DC Fast,2025-09-07 03:00:00,57.87,273.0,Compact,3,Sunday,9,Over 4 hours
+EV000526,ST043,Mall,Level 1,2025-06-24 05:00:00,9.44,306.0,Compact,5,Tuesday,6,Over 4 hours
+EV000527,ST029,Highway,Level 2,2025-05-11 18:00:00,66.92,184.0,SUV,18,Sunday,5,2–4 hours
+EV000528,ST047,Mall,DC Fast,2025-11-28 07:00:00,86.83,21.0,Compact,7,Friday,11,Up to 1 hour
+EV000529,ST009,Transit Hub,DC Fast,2025-03-28 08:00:00,71.86,347.0,Sedan,8,Friday,3,Over 4 hours
+EV000530,ST006,Residential,Level 2,2025-11-10 02:00:00,66.35,249.0,Sedan,2,Monday,11,Over 4 hours
+EV000531,ST014,Residential,Level 2,2026-08-25 03:00:00,21.88,238.0,Compact,3,Tuesday,8,2–4 hours
+EV000532,ST029,Residential,Level 2,2025-04-01 21:00:00,39.48,275.0,Van,21,Tuesday,4,Over 4 hours
+EV000533,ST041,Transit Hub,DC Fast,2025-02-12 05:00:00,18.23,66.0,Sedan,5,Wednesday,2,1–2 hours
+EV000534,ST039,Highway,Level 1,2025-04-28 01:00:00,69.78,309.0,SUV,1,Monday,4,Over 4 hours
+EV000535,ST003,Transit Hub,DC Fast,2026-04-20 08:00:00,68.09,53.0,SUV,8,Monday,4,Up to 1 hour
+EV000536,ST023,Transit Hub,DC Fast,2025-02-05 09:00:00,15.47,44.0,Compact,9,Wednesday,2,Up to 1 hour
+EV000537,ST039,Transit Hub,Level 2,2025-01-14 18:00:00,68.34,51.0,Sedan,18,Tuesday,1,Up to 1 hour
+EV000538,ST037,Transit Hub,DC Fast,2025-02-28 07:00:00,53.54,276.0,Compact,7,Friday,2,Over 4 hours
+EV000539,ST020,Residential,Level 2,2026-08-11 01:00:00,88.36,140.0,Van,1,Tuesday,8,2–4 hours
+EV000540,ST020,Office District,DC Fast,2025-01-01 23:00:00,89.12,318.0,Van,23,Wednesday,1,Over 4 hours
+EV000541,ST014,Mall,Level 1,2026-09-02 12:00:00,11.86,22.0,Van,12,Wednesday,9,Up to 1 hour
+EV000542,ST014,Office District,DC Fast,2026-02-04 09:00:00,76.13,103.0,Compact,9,Wednesday,2,1–2 hours
+EV000543,ST025,Highway,Level 2,2025-06-28 00:00:00,18.64,210.0,Sedan,0,Saturday,6,2–4 hours
+EV000544,ST023,Residential,Level 2,2026-08-26 05:00:00,51.74,166.0,Compact,5,Wednesday,8,2–4 hours
+EV000545,ST014,Highway,DC Fast,2025-02-11 16:00:00,47.94,168.0,Compact,16,Tuesday,2,2–4 hours
+EV000546,ST003,Residential,Level 1,2025-05-10 20:00:00,28.28,58.0,Sedan,20,Saturday,5,Up to 1 hour
+EV000547,ST042,Residential,DC Fast,2025-01-27 23:00:00,66.38,143.0,SUV,23,Monday,1,2–4 hours
+EV000548,ST040,Office District,DC Fast,2025-07-13 15:00:00,50.55,26.0,Compact,15,Sunday,7,Up to 1 hour
+EV000549,ST003,Transit Hub,Level 1,2026-10-03 08:00:00,57.88,166.0,Sedan,8,Saturday,10,2–4 hours
+EV000550,ST030,Residential,Level 2,2026-01-04 08:00:00,63.75,102.0,Sedan,8,Sunday,1,1–2 hours
+EV000551,ST033,Mall,Level 2,2026-03-06 22:00:00,39.38,164.0,SUV,22,Friday,3,2–4 hours
+EV000552,ST028,Office District,Level 1,2025-05-25 08:00:00,8.52,248.0,Van,8,Sunday,5,Over 4 hours
+EV000553,ST040,Transit Hub,Level 1,2026-09-30 21:00:00,26.9,355.0,SUV,21,Wednesday,9,Over 4 hours
+EV000554,ST032,Office District,Level 1,2026-09-23 20:00:00,19.93,194.0,Van,20,Wednesday,9,2–4 hours
+EV000555,ST011,Transit Hub,DC Fast,2025-11-18 08:00:00,69.03,162.0,Sedan,8,Tuesday,11,2–4 hours
+EV000556,ST019,Office District,Level 1,2025-11-01 11:00:00,26.22,49.0,Sedan,11,Saturday,11,Up to 1 hour
+EV000557,ST038,Highway,Level 2,2026-06-21 04:00:00,36.04,333.0,Van,4,Sunday,6,Over 4 hours
+EV000558,ST049,Residential,Level 2,2025-10-20 15:00:00,42.92,311.0,SUV,15,Monday,10,Over 4 hours
+EV000559,ST023,Transit Hub,DC Fast,2026-09-27 07:00:00,76.0,310.0,Sedan,7,Sunday,9,Over 4 hours
+EV000560,ST020,Office District,Level 1,2025-07-17 05:00:00,76.78,236.0,Compact,5,Thursday,7,2–4 hours
+EV000561,ST049,Office District,Level 1,2025-06-18 21:00:00,23.69,165.0,Compact,21,Wednesday,6,2–4 hours
+EV000562,ST012,Office District,DC Fast,2025-05-14 13:00:00,39.71,43.0,Sedan,13,Wednesday,5,Up to 1 hour
+EV000563,ST019,Office District,Level 2,2025-03-01 10:00:00,25.78,34.0,Van,10,Saturday,3,Up to 1 hour
+EV000564,ST041,Office District,Level 2,2026-08-08 03:00:00,87.96,317.0,Sedan,3,Saturday,8,Over 4 hours
+EV000565,ST016,Mall,Level 2,2025-07-07 11:00:00,50.32,308.0,Sedan,11,Monday,7,Over 4 hours
+EV000566,ST033,Residential,Level 2,2025-12-11 01:00:00,5.07,268.0,Van,1,Thursday,12,Over 4 hours
+EV000567,ST044,Office District,Level 2,2026-01-02 03:00:00,12.7,92.0,Sedan,3,Friday,1,1–2 hours
+EV000568,ST049,Mall,DC Fast,2025-03-26 02:00:00,77.76,34.0,SUV,2,Wednesday,3,Up to 1 hour
+EV000569,ST033,Mall,DC Fast,2026-04-11 05:00:00,38.84,39.0,Compact,5,Saturday,4,Up to 1 hour
+EV000570,ST006,Mall,DC Fast,2025-04-18 23:00:00,81.95,309.0,Compact,23,Friday,4,Over 4 hours
+EV000571,ST038,Mall,DC Fast,2026-10-15 22:00:00,61.38,316.0,Compact,22,Thursday,10,Over 4 hours
+EV000572,ST045,Transit Hub,Level 1,2025-11-24 12:00:00,50.33,225.0,Sedan,12,Monday,11,2–4 hours
+EV000573,ST021,Mall,Level 1,2026-06-09 21:00:00,74.27,243.0,Van,21,Tuesday,6,Over 4 hours
+EV000575,ST025,Highway,DC Fast,2025-02-28 07:00:00,54.46,80.0,SUV,7,Friday,2,1–2 hours
+EV000576,ST049,Office District,Level 2,2026-06-22 16:00:00,12.22,307.0,Compact,16,Monday,6,Over 4 hours
+EV000577,ST049,Office District,DC Fast,2026-09-08 16:00:00,73.21,118.0,Van,16,Tuesday,9,1–2 hours
+EV000579,ST027,Highway,DC Fast,2026-07-20 16:00:00,80.97,273.0,Sedan,16,Monday,7,Over 4 hours
+EV000580,ST036,Mall,Level 1,2025-08-02 14:00:00,13.64,330.0,Van,14,Saturday,8,Over 4 hours
+EV000581,ST037,Highway,Level 1,2025-05-24 10:00:00,87.63,61.0,SUV,10,Saturday,5,1–2 hours
+EV000582,ST009,Residential,DC Fast,2026-05-08 21:00:00,42.19,125.0,Van,21,Friday,5,2–4 hours
+EV000583,ST048,Highway,Level 1,2026-08-20 17:00:00,23.52,265.0,Van,17,Thursday,8,Over 4 hours
+EV000584,ST032,Transit Hub,DC Fast,2025-07-15 02:00:00,65.42,268.0,Van,2,Tuesday,7,Over 4 hours
+EV000585,ST036,Transit Hub,Level 1,2025-06-01 21:00:00,70.83,175.0,Sedan,21,Sunday,6,2–4 hours
+EV000586,ST007,Mall,DC Fast,2025-05-31 22:00:00,5.05,206.0,Van,22,Saturday,5,2–4 hours
+EV000587,ST036,Highway,DC Fast,2025-12-17 18:00:00,32.63,304.0,Compact,18,Wednesday,12,Over 4 hours
+EV000588,ST011,Residential,DC Fast,2026-03-26 11:00:00,44.81,123.0,Van,11,Thursday,3,2–4 hours
+EV000589,ST006,Highway,Level 2,2026-05-30 13:00:00,77.17,238.0,SUV,13,Saturday,5,2–4 hours
+EV000590,ST041,Mall,Level 2,2025-04-09 03:00:00,6.69,120.0,Compact,3,Wednesday,4,1–2 hours
+EV000591,ST011,Mall,DC Fast,2025-03-06 15:00:00,68.9,353.0,Compact,15,Thursday,3,Over 4 hours
+EV000592,ST015,Mall,Level 1,2026-04-23 09:00:00,84.17,35.0,SUV,9,Thursday,4,Up to 1 hour
+EV000593,ST039,Mall,DC Fast,2026-04-19 20:00:00,85.04,311.0,Sedan,20,Sunday,4,Over 4 hours
+EV000594,ST020,Mall,Level 1,2025-10-04 11:00:00,24.14,164.0,Van,11,Saturday,10,2–4 hours
+EV000595,ST049,Highway,Level 2,2025-12-13 17:00:00,57.48,136.0,Compact,17,Saturday,12,2–4 hours
+EV000596,ST026,Office District,DC Fast,2025-04-26 14:00:00,45.52,95.0,Van,14,Saturday,4,1–2 hours
+EV000597,ST022,Transit Hub,Level 1,2025-12-07 22:00:00,57.37,183.0,Compact,22,Sunday,12,2–4 hours
+EV000598,ST033,Highway,Level 1,2025-07-29 20:00:00,51.45,315.0,Sedan,20,Tuesday,7,Over 4 hours
+EV000599,ST038,Residential,Level 2,2026-02-18 20:00:00,81.89,339.0,Compact,20,Wednesday,2,Over 4 hours
+EV000600,ST029,Office District,Level 2,2026-10-07 06:00:00,67.28,130.0,Sedan,6,Wednesday,10,2–4 hours
+EV000601,ST001,Transit Hub,Level 2,2025-02-20 01:00:00,51.41,71.0,Sedan,1,Thursday,2,1–2 hours
+EV000602,ST010,Highway,Level 2,2026-09-05 12:00:00,89.78,46.0,Compact,12,Saturday,9,Up to 1 hour
+EV000603,ST007,Transit Hub,Level 2,2025-03-27 17:00:00,84.79,161.0,SUV,17,Thursday,3,2–4 hours
+EV000604,ST028,Office District,DC Fast,2025-04-23 17:00:00,17.73,335.0,Van,17,Wednesday,4,Over 4 hours
+EV000605,ST004,Transit Hub,Level 1,2025-04-29 03:00:00,59.04,215.0,SUV,3,Tuesday,4,2–4 hours
+EV000606,ST043,Office District,Level 1,2025-01-14 20:00:00,84.55,86.0,Compact,20,Tuesday,1,1–2 hours
+EV000607,ST006,Highway,Level 2,2025-04-12 20:00:00,76.83,139.0,Compact,20,Saturday,4,2–4 hours
+EV000608,ST030,Transit Hub,Level 2,2026-06-15 22:00:00,80.99,174.0,Sedan,22,Monday,6,2–4 hours
+EV000609,ST003,Transit Hub,DC Fast,2025-10-28 02:00:00,57.42,52.0,Van,2,Tuesday,10,Up to 1 hour
+EV000610,ST043,Office District,Level 1,2025-10-19 12:00:00,11.64,349.0,SUV,12,Sunday,10,Over 4 hours
+EV000611,ST002,Highway,Level 1,2026-02-06 06:00:00,6.45,90.0,Sedan,6,Friday,2,1–2 hours
+EV000613,ST033,Residential,Level 2,2025-03-31 07:00:00,57.39,167.0,Van,7,Monday,3,2–4 hours
+EV000614,ST026,Residential,Level 1,2025-08-28 23:00:00,83.67,211.0,Van,23,Thursday,8,2–4 hours
+EV000615,ST022,Mall,DC Fast,2026-05-14 22:00:00,38.51,316.0,Van,22,Thursday,5,Over 4 hours
+EV000617,ST027,Transit Hub,DC Fast,2026-07-22 23:00:00,50.36,214.0,SUV,23,Wednesday,7,2–4 hours
+EV000618,ST008,Mall,Level 2,2025-01-07 13:00:00,25.06,228.0,Compact,13,Tuesday,1,2–4 hours
+EV000619,ST017,Office District,Level 1,2025-03-06 12:00:00,31.66,121.0,Compact,12,Thursday,3,2–4 hours
+EV000620,ST029,Highway,Level 2,2025-08-09 11:00:00,36.72,98.0,Sedan,11,Saturday,8,1–2 hours
+EV000621,ST020,Mall,Level 2,2025-04-23 12:00:00,69.99,77.0,SUV,12,Wednesday,4,1–2 hours
+EV000622,ST019,Transit Hub,DC Fast,2025-10-18 14:00:00,61.83,164.0,Sedan,14,Saturday,10,2–4 hours
+EV000623,ST008,Highway,Level 1,2025-09-05 12:00:00,45.33,230.0,SUV,12,Friday,9,2–4 hours
+EV000624,ST012,Residential,Level 2,2025-12-02 05:00:00,89.26,175.0,Sedan,5,Tuesday,12,2–4 hours
+EV000625,ST032,Office District,Level 1,2026-03-16 15:00:00,30.37,81.0,Van,15,Monday,3,1–2 hours
+EV000626,ST042,Mall,Level 2,2025-05-24 08:00:00,67.32,119.0,Compact,8,Saturday,5,1–2 hours
+EV000627,ST007,Residential,DC Fast,2025-02-27 01:00:00,14.4,44.0,Sedan,1,Thursday,2,Up to 1 hour
+EV000628,ST012,Highway,Level 1,2025-02-03 23:00:00,43.39,133.0,Van,23,Monday,2,2–4 hours
+EV000629,ST044,Transit Hub,Level 1,2025-08-21 07:00:00,71.14,31.0,Van,7,Thursday,8,Up to 1 hour
+EV000630,ST018,Office District,DC Fast,2026-06-17 13:00:00,45.64,279.0,SUV,13,Wednesday,6,Over 4 hours
+EV000631,ST014,Highway,Level 1,2026-10-25 14:00:00,54.8,257.0,Compact,14,Sunday,10,Over 4 hours
+EV000632,ST027,Mall,Level 1,2026-06-07 04:00:00,45.61,230.0,Sedan,4,Sunday,6,2–4 hours
+EV000633,ST013,Mall,Level 1,2025-12-15 05:00:00,24.19,321.0,Compact,5,Monday,12,Over 4 hours
+EV000634,ST044,Mall,Level 1,2025-12-12 11:00:00,79.05,223.0,Compact,11,Friday,12,2–4 hours
+EV000635,ST010,Mall,DC Fast,2025-04-26 14:00:00,61.43,200.0,SUV,14,Saturday,4,2–4 hours
+EV000636,ST030,Office District,DC Fast,2025-07-24 23:00:00,68.17,205.0,Sedan,23,Thursday,7,2–4 hours
+EV000637,ST006,Residential,Level 2,2026-02-14 21:00:00,85.67,114.0,Sedan,21,Saturday,2,1–2 hours
+EV000638,ST045,Mall,Level 2,2025-01-16 23:00:00,63.85,184.0,Sedan,23,Thursday,1,2–4 hours
+EV000639,ST013,Mall,Level 2,2025-08-27 18:00:00,10.52,89.0,SUV,18,Wednesday,8,1–2 hours
+EV000640,ST039,Office District,Level 2,2026-03-12 18:00:00,58.5,174.0,Sedan,18,Thursday,3,2–4 hours
+EV000641,ST049,Mall,Level 1,2026-08-19 12:00:00,47.93,113.0,Compact,12,Wednesday,8,1–2 hours
+EV000642,ST028,Highway,Level 1,2026-07-21 08:00:00,23.83,103.0,SUV,8,Tuesday,7,1–2 hours
+EV000643,ST002,Office District,DC Fast,2026-09-28 06:00:00,55.43,123.0,SUV,6,Monday,9,2–4 hours
+EV000644,ST019,Highway,Level 1,2026-03-05 17:00:00,62.21,53.0,Van,17,Thursday,3,Up to 1 hour
+EV000645,ST025,Mall,DC Fast,2025-06-07 09:00:00,52.53,225.0,Compact,9,Saturday,6,2–4 hours
+EV000646,ST005,Office District,DC Fast,2025-05-30 22:00:00,18.02,71.0,Van,22,Friday,5,1–2 hours
+EV000647,ST018,Transit Hub,DC Fast,2026-09-07 02:00:00,58.98,333.0,Sedan,2,Monday,9,Over 4 hours
+EV000648,ST028,Office District,Level 1,2026-04-08 12:00:00,7.11,192.0,Sedan,12,Wednesday,4,2–4 hours
+EV000649,ST039,Office District,DC Fast,2026-06-04 03:00:00,18.55,96.0,Compact,3,Thursday,6,1–2 hours
+EV000650,ST010,Mall,Level 2,2025-12-04 09:00:00,72.85,346.0,Van,9,Thursday,12,Over 4 hours
+EV000651,ST031,Residential,DC Fast,2025-04-15 23:00:00,46.64,142.0,Compact,23,Tuesday,4,2–4 hours
+EV000652,ST035,Highway,DC Fast,2026-01-31 05:00:00,55.2,208.0,SUV,5,Saturday,1,2–4 hours
+EV000653,ST002,Highway,Level 2,2026-07-07 22:00:00,33.83,222.0,Van,22,Tuesday,7,2–4 hours
+EV000654,ST022,Mall,Level 2,2025-06-13 22:00:00,53.12,332.0,SUV,22,Friday,6,Over 4 hours
+EV000655,ST004,Office District,DC Fast,2025-04-29 14:00:00,8.22,170.0,SUV,14,Tuesday,4,2–4 hours
+EV000656,ST041,Mall,Level 2,2025-10-28 22:00:00,7.03,294.0,Van,22,Tuesday,10,Over 4 hours
+EV000657,ST033,Office District,DC Fast,2025-01-07 15:00:00,81.83,59.0,Sedan,15,Tuesday,1,Up to 1 hour
+EV000658,ST028,Transit Hub,DC Fast,2025-03-06 21:00:00,29.34,58.0,Van,21,Thursday,3,Up to 1 hour
+EV000659,ST034,Office District,Level 2,2026-06-05 06:00:00,73.31,73.0,Van,6,Friday,6,1–2 hours
+EV000660,ST046,Residential,DC Fast,2026-08-01 07:00:00,48.89,346.0,SUV,7,Saturday,8,Over 4 hours
+EV000661,ST032,Transit Hub,Level 1,2025-08-20 09:00:00,11.4,216.0,Van,9,Wednesday,8,2–4 hours
+EV000662,ST014,Transit Hub,Level 2,2025-02-16 21:00:00,10.33,181.0,Sedan,21,Sunday,2,2–4 hours
+EV000663,ST033,Office District,Level 2,2026-09-09 04:00:00,10.27,226.0,Compact,4,Wednesday,9,2–4 hours
+EV000664,ST040,Residential,DC Fast,2026-09-05 23:00:00,47.71,141.0,Van,23,Saturday,9,2–4 hours
+EV000665,ST041,Highway,DC Fast,2025-10-24 22:00:00,33.36,220.0,SUV,22,Friday,10,2–4 hours
+EV000666,ST026,Transit Hub,Level 1,2026-09-25 12:00:00,88.13,207.0,SUV,12,Friday,9,2–4 hours
+EV000667,ST019,Highway,DC Fast,2026-02-13 19:00:00,14.14,297.0,Compact,19,Friday,2,Over 4 hours
+EV000668,ST022,Highway,Level 1,2026-03-29 01:00:00,38.73,219.0,Compact,1,Sunday,3,2–4 hours
+EV000669,ST016,Residential,DC Fast,2026-05-14 07:00:00,6.18,85.0,Van,7,Thursday,5,1–2 hours
+EV000670,ST011,Mall,DC Fast,2025-06-18 08:00:00,57.18,127.0,SUV,8,Wednesday,6,2–4 hours
+EV000671,ST041,Highway,Level 1,2026-07-19 08:00:00,13.03,173.0,Sedan,8,Sunday,7,2–4 hours
+EV000672,ST047,Office District,Level 2,2025-04-13 03:00:00,62.86,340.0,Van,3,Sunday,4,Over 4 hours
+EV000673,ST017,Mall,Level 1,2025-04-29 00:00:00,66.1,178.0,Sedan,0,Tuesday,4,2–4 hours
+EV000674,ST029,Residential,Level 1,2025-03-14 09:00:00,88.82,176.0,Sedan,9,Friday,3,2–4 hours
+EV000675,ST047,Mall,Level 1,2025-05-17 06:00:00,23.8,93.0,Van,6,Saturday,5,1–2 hours
+EV000676,ST019,Highway,Level 1,2026-06-02 22:00:00,60.8,42.0,Compact,22,Tuesday,6,Up to 1 hour
+EV000677,ST036,Highway,Level 2,2026-08-17 06:00:00,30.99,261.0,Sedan,6,Monday,8,Over 4 hours
+EV000678,ST040,Residential,Level 1,2025-03-18 19:00:00,30.88,337.0,Sedan,19,Tuesday,3,Over 4 hours
+EV000679,ST035,Office District,Level 1,2025-07-15 03:00:00,77.81,126.0,Compact,3,Tuesday,7,2–4 hours
+EV000680,ST025,Residential,DC Fast,2025-06-10 23:00:00,80.69,97.0,Compact,23,Tuesday,6,1–2 hours
+EV000681,ST045,Transit Hub,Level 1,2026-03-03 21:00:00,27.86,230.0,Van,21,Tuesday,3,2–4 hours
+EV000682,ST017,Office District,DC Fast,2026-07-28 01:00:00,55.86,352.0,SUV,1,Tuesday,7,Over 4 hours
+EV000683,ST038,Residential,DC Fast,2025-02-17 00:00:00,67.92,163.0,Sedan,0,Monday,2,2–4 hours
+EV000684,ST013,Residential,DC Fast,2025-08-15 21:00:00,33.84,340.0,Sedan,21,Friday,8,Over 4 hours
+EV000685,ST003,Mall,DC Fast,2026-03-23 13:00:00,18.09,101.0,Van,13,Monday,3,1–2 hours
+EV000686,ST041,Residential,DC Fast,2026-08-29 16:00:00,74.39,350.0,Sedan,16,Saturday,8,Over 4 hours
+EV000687,ST023,Office District,Level 2,2025-05-05 10:00:00,49.45,90.0,Van,10,Monday,5,1–2 hours
+EV000688,ST034,Transit Hub,DC Fast,2025-12-07 01:00:00,28.61,20.0,Compact,1,Sunday,12,Up to 1 hour
+EV000689,ST019,Residential,Level 1,2026-06-18 09:00:00,7.34,187.0,Compact,9,Thursday,6,2–4 hours
+EV000690,ST023,Residential,Level 2,2026-07-12 18:00:00,77.92,83.0,Compact,18,Sunday,7,1–2 hours
+EV000691,ST021,Transit Hub,Level 1,2026-05-12 03:00:00,42.81,101.0,Compact,3,Tuesday,5,1–2 hours
+EV000692,ST029,Office District,Level 2,2026-06-01 08:00:00,52.15,186.0,Compact,8,Monday,6,2–4 hours
+EV000693,ST014,Office District,Level 2,2026-01-29 19:00:00,16.4,249.0,Sedan,19,Thursday,1,Over 4 hours
+EV000694,ST011,Office District,DC Fast,2025-01-19 13:00:00,12.03,257.0,Van,13,Sunday,1,Over 4 hours
+EV000695,ST011,Mall,Level 1,2025-04-11 07:00:00,35.26,229.0,Compact,7,Friday,4,2–4 hours
+EV000696,ST031,Transit Hub,Level 1,2026-06-23 15:00:00,24.48,121.0,Sedan,15,Tuesday,6,2–4 hours
+EV000697,ST027,Highway,Level 1,2025-06-27 16:00:00,7.92,288.0,Sedan,16,Friday,6,Over 4 hours
+EV000698,ST048,Highway,Level 1,2026-04-14 16:00:00,19.97,350.0,Compact,16,Tuesday,4,Over 4 hours
+EV000699,ST037,Residential,DC Fast,2025-01-29 07:00:00,60.57,65.0,SUV,7,Wednesday,1,1–2 hours
+EV000700,ST013,Highway,Level 1,2026-02-04 21:00:00,26.33,83.0,Van,21,Wednesday,2,1–2 hours
+EV000701,ST010,Highway,Level 1,2025-07-30 21:00:00,87.1,319.0,Compact,21,Wednesday,7,Over 4 hours
+EV000702,ST010,Mall,Level 1,2026-01-29 14:00:00,81.57,68.0,Van,14,Thursday,1,1–2 hours
+EV000703,ST014,Residential,DC Fast,2025-09-12 05:00:00,34.39,197.0,Van,5,Friday,9,2–4 hours
+EV000704,ST037,Transit Hub,Level 2,2026-05-19 08:00:00,72.26,258.0,Compact,8,Tuesday,5,Over 4 hours
+EV000705,ST033,Office District,DC Fast,2025-11-08 19:00:00,20.28,241.0,Sedan,19,Saturday,11,Over 4 hours
+EV000706,ST014,Residential,Level 1,2026-06-08 19:00:00,44.55,114.0,Compact,19,Monday,6,1–2 hours
+EV000707,ST033,Residential,Level 2,2026-10-29 17:00:00,41.47,352.0,Sedan,17,Thursday,10,Over 4 hours
+EV000708,ST011,Transit Hub,DC Fast,2025-10-09 11:00:00,79.2,52.0,Sedan,11,Thursday,10,Up to 1 hour
+EV000709,ST005,Transit Hub,Level 1,2026-05-01 20:00:00,39.43,196.0,Sedan,20,Friday,5,2–4 hours
+EV000710,ST020,Highway,DC Fast,2025-11-05 08:00:00,18.82,272.0,Van,8,Wednesday,11,Over 4 hours
+EV000711,ST004,Office District,Level 2,2025-09-20 23:00:00,64.39,319.0,Van,23,Saturday,9,Over 4 hours
+EV000712,ST040,Transit Hub,DC Fast,2026-04-09 22:00:00,59.44,26.0,SUV,22,Thursday,4,Up to 1 hour
+EV000713,ST025,Residential,DC Fast,2026-07-20 13:00:00,32.37,130.0,SUV,13,Monday,7,2–4 hours
+EV000715,ST041,Office District,DC Fast,2025-09-03 17:00:00,59.42,302.0,Sedan,17,Wednesday,9,Over 4 hours
+EV000716,ST036,Mall,Level 2,2025-10-03 06:00:00,18.14,45.0,SUV,6,Friday,10,Up to 1 hour
+EV000717,ST011,Mall,Level 1,2025-08-31 13:00:00,22.18,338.0,Van,13,Sunday,8,Over 4 hours
+EV000718,ST019,Office District,Level 1,2025-05-10 06:00:00,61.29,261.0,Sedan,6,Saturday,5,Over 4 hours
+EV000719,ST049,Office District,DC Fast,2025-02-12 21:00:00,56.02,83.0,Sedan,21,Wednesday,2,1–2 hours
+EV000720,ST024,Transit Hub,Level 1,2025-07-13 22:00:00,7.96,96.0,Sedan,22,Sunday,7,1–2 hours
+EV000721,ST049,Transit Hub,Level 2,2026-05-07 14:00:00,26.74,189.0,Compact,14,Thursday,5,2–4 hours
+EV000722,ST028,Transit Hub,DC Fast,2026-09-10 00:00:00,12.88,262.0,Van,0,Thursday,9,Over 4 hours
+EV000723,ST030,Transit Hub,Level 2,2025-05-16 20:00:00,87.79,324.0,Compact,20,Friday,5,Over 4 hours
+EV000724,ST030,Residential,Level 2,2025-09-27 05:00:00,46.07,170.0,SUV,5,Saturday,9,2–4 hours
+EV000725,ST048,Highway,Level 1,2025-06-07 06:00:00,48.08,141.0,Van,6,Saturday,6,2–4 hours
+EV000726,ST030,Office District,DC Fast,2026-07-28 00:00:00,17.45,263.0,SUV,0,Tuesday,7,Over 4 hours
+EV000727,ST020,Residential,Level 2,2025-08-20 01:00:00,44.83,256.0,SUV,1,Wednesday,8,Over 4 hours
+EV000728,ST023,Transit Hub,Level 1,2025-03-20 22:00:00,86.91,270.0,Van,22,Thursday,3,Over 4 hours
+EV000729,ST025,Highway,DC Fast,2026-07-04 02:00:00,78.52,54.0,Compact,2,Saturday,7,Up to 1 hour
+EV000731,ST035,Mall,Level 2,2026-07-30 15:00:00,79.86,122.0,Sedan,15,Thursday,7,2–4 hours
+EV000732,ST019,Residential,DC Fast,2025-12-28 15:00:00,40.84,354.0,Sedan,15,Sunday,12,Over 4 hours
+EV000733,ST004,Mall,DC Fast,2026-01-04 20:00:00,57.06,244.0,Compact,20,Sunday,1,Over 4 hours
+EV000734,ST019,Mall,DC Fast,2025-11-14 19:00:00,37.5,249.0,Compact,19,Friday,11,Over 4 hours
+EV000735,ST038,Mall,Level 1,2026-09-12 05:00:00,62.86,170.0,SUV,5,Saturday,9,2–4 hours
+EV000736,ST038,Highway,Level 2,2025-05-03 16:00:00,64.66,335.0,SUV,16,Saturday,5,Over 4 hours
+EV000738,ST047,Residential,DC Fast,2025-02-12 05:00:00,81.38,231.0,Sedan,5,Wednesday,2,2–4 hours
+EV000739,ST028,Residential,Level 2,2026-02-09 12:00:00,26.3,207.0,Van,12,Monday,2,2–4 hours
+EV000740,ST028,Transit Hub,Level 1,2026-03-02 16:00:00,69.77,114.0,Sedan,16,Monday,3,1–2 hours
+EV000741,ST011,Mall,Level 1,2026-09-14 15:00:00,85.08,335.0,Compact,15,Monday,9,Over 4 hours
+EV000742,ST047,Office District,Level 1,2026-03-15 13:00:00,29.92,172.0,Compact,13,Sunday,3,2–4 hours
+EV000743,ST007,Residential,Level 2,2025-12-15 05:00:00,87.89,60.0,Compact,5,Monday,12,Up to 1 hour
+EV000744,ST049,Office District,Level 1,2026-04-04 19:00:00,70.81,80.0,Compact,19,Saturday,4,1–2 hours
+EV000745,ST011,Transit Hub,Level 2,2025-11-05 05:00:00,67.34,232.0,Sedan,5,Wednesday,11,2–4 hours
+EV000746,ST044,Office District,Level 1,2026-09-28 10:00:00,14.01,286.0,SUV,10,Monday,9,Over 4 hours
+EV000747,ST010,Residential,Level 2,2025-01-20 18:00:00,44.39,175.0,Compact,18,Monday,1,2–4 hours
+EV000748,ST036,Residential,Level 2,2025-08-26 21:00:00,45.24,221.0,Compact,21,Tuesday,8,2–4 hours
+EV000749,ST043,Residential,Level 2,2026-08-13 01:00:00,81.08,335.0,SUV,1,Thursday,8,Over 4 hours
+EV000750,ST036,Mall,Level 2,2026-03-20 20:00:00,46.68,71.0,Sedan,20,Friday,3,1–2 hours
+EV000751,ST007,Office District,Level 1,2025-05-07 16:00:00,37.79,311.0,Compact,16,Wednesday,5,Over 4 hours
+EV000752,ST047,Transit Hub,DC Fast,2026-05-08 04:00:00,41.07,196.0,Sedan,4,Friday,5,2–4 hours
+EV000753,ST048,Mall,Level 1,2025-11-02 01:00:00,86.92,127.0,Compact,1,Sunday,11,2–4 hours
+EV000754,ST032,Transit Hub,Level 1,2026-02-14 04:00:00,57.18,71.0,Van,4,Saturday,2,1–2 hours
+EV000755,ST039,Office District,Level 2,2026-06-16 02:00:00,47.33,303.0,Van,2,Tuesday,6,Over 4 hours
+EV000756,ST022,Highway,Level 1,2026-05-16 07:00:00,69.93,212.0,Compact,7,Saturday,5,2–4 hours
+EV000757,ST036,Office District,DC Fast,2025-12-09 05:00:00,28.87,215.0,SUV,5,Tuesday,12,2–4 hours
+EV000758,ST049,Mall,Level 2,2026-06-16 02:00:00,77.71,242.0,Sedan,2,Tuesday,6,Over 4 hours
+EV000759,ST031,Residential,DC Fast,2026-06-07 08:00:00,57.97,118.0,Van,8,Sunday,6,1–2 hours
+EV000760,ST014,Residential,Level 1,2025-12-24 19:00:00,27.47,57.0,Compact,19,Wednesday,12,Up to 1 hour
+EV000761,ST003,Transit Hub,Level 1,2026-07-14 23:00:00,13.29,51.0,SUV,23,Tuesday,7,Up to 1 hour
+EV000762,ST033,Mall,Level 1,2025-10-09 20:00:00,47.71,260.0,SUV,20,Thursday,10,Over 4 hours
+EV000763,ST036,Office District,Level 1,2026-07-27 10:00:00,69.81,76.0,Compact,10,Monday,7,1–2 hours
+EV000764,ST040,Transit Hub,Level 1,2026-05-26 15:00:00,32.83,56.0,Sedan,15,Tuesday,5,Up to 1 hour
+EV000765,ST019,Office District,Level 2,2025-02-23 10:00:00,86.86,233.0,SUV,10,Sunday,2,2–4 hours
+EV000766,ST037,Mall,Level 1,2025-10-29 13:00:00,50.54,162.0,Compact,13,Wednesday,10,2–4 hours
+EV000767,ST007,Office District,Level 2,2025-05-19 18:00:00,77.31,189.0,Van,18,Monday,5,2–4 hours
+EV000768,ST039,Residential,Level 1,2025-05-23 08:00:00,15.52,58.0,Van,8,Friday,5,Up to 1 hour
+EV000769,ST041,Office District,Level 2,2026-09-01 06:00:00,51.36,65.0,SUV,6,Tuesday,9,1–2 hours
+EV000770,ST014,Mall,Level 1,2026-06-20 20:00:00,88.13,240.0,Compact,20,Saturday,6,2–4 hours
+EV000771,ST017,Residential,Level 2,2025-06-25 14:00:00,41.94,323.0,Sedan,14,Wednesday,6,Over 4 hours
+EV000772,ST041,Mall,Level 1,2026-02-19 12:00:00,71.15,102.0,Sedan,12,Thursday,2,1–2 hours
+EV000773,ST030,Highway,Level 2,2026-04-18 16:00:00,64.93,216.0,Van,16,Saturday,4,2–4 hours
+EV000774,ST025,Office District,Level 2,2025-04-17 00:00:00,33.97,86.0,Sedan,0,Thursday,4,1–2 hours
+EV000775,ST008,Highway,Level 1,2025-12-20 20:00:00,75.57,348.0,SUV,20,Saturday,12,Over 4 hours
+EV000776,ST040,Residential,Level 1,2026-03-14 20:00:00,42.62,201.0,Compact,20,Saturday,3,2–4 hours
+EV000777,ST007,Mall,Level 1,2026-09-19 02:00:00,37.69,113.0,Van,2,Saturday,9,1–2 hours
+EV000778,ST022,Transit Hub,DC Fast,2025-11-11 06:00:00,61.39,60.0,Compact,6,Tuesday,11,Up to 1 hour
+EV000779,ST022,Highway,DC Fast,2025-06-20 15:00:00,23.17,82.0,Van,15,Friday,6,1–2 hours
+EV000780,ST036,Mall,Level 1,2025-11-29 19:00:00,82.13,297.0,Sedan,19,Saturday,11,Over 4 hours
+EV000782,ST001,Highway,Level 2,2025-04-19 03:00:00,81.28,232.0,SUV,3,Saturday,4,2–4 hours
+EV000783,ST031,Mall,DC Fast,2025-10-02 11:00:00,51.01,275.0,SUV,11,Thursday,10,Over 4 hours
+EV000784,ST018,Mall,Level 2,2025-03-15 02:00:00,61.86,89.0,Compact,2,Saturday,3,1–2 hours
+EV000785,ST004,Transit Hub,Level 1,2025-06-10 08:00:00,86.36,92.0,Sedan,8,Tuesday,6,1–2 hours
+EV000786,ST038,Highway,DC Fast,2025-03-03 12:00:00,86.68,63.0,SUV,12,Monday,3,1–2 hours
+EV000788,ST031,Transit Hub,Level 1,2026-04-11 05:00:00,69.92,222.0,SUV,5,Saturday,4,2–4 hours
+EV000789,ST018,Office District,DC Fast,2025-12-28 17:00:00,53.37,128.0,Van,17,Sunday,12,2–4 hours
+EV000790,ST011,Transit Hub,Level 2,2025-03-17 06:00:00,24.19,56.0,Compact,6,Monday,3,Up to 1 hour
+EV000791,ST016,Highway,DC Fast,2025-03-15 16:00:00,42.42,259.0,SUV,16,Saturday,3,Over 4 hours
+EV000792,ST045,Highway,Level 2,2025-10-28 04:00:00,54.19,45.0,Van,4,Tuesday,10,Up to 1 hour
+EV000793,ST038,Highway,Level 1,2025-05-09 04:00:00,25.69,93.0,Sedan,4,Friday,5,1–2 hours
+EV000794,ST043,Mall,DC Fast,2025-04-11 18:00:00,56.22,40.0,Van,18,Friday,4,Up to 1 hour
+EV000795,ST024,Transit Hub,Level 2,2026-09-01 07:00:00,52.84,46.0,Sedan,7,Tuesday,9,Up to 1 hour
+EV000796,ST044,Mall,Level 1,2025-09-05 22:00:00,66.03,38.0,Van,22,Friday,9,Up to 1 hour
+EV000797,ST010,Mall,DC Fast,2026-03-22 06:00:00,58.62,298.0,Compact,6,Sunday,3,Over 4 hours
+EV000798,ST033,Transit Hub,Level 2,2025-10-20 05:00:00,78.5,83.0,Sedan,5,Monday,10,1–2 hours
+EV000799,ST019,Office District,Level 2,2026-04-17 04:00:00,40.67,23.0,Compact,4,Friday,4,Up to 1 hour
+EV000800,ST010,Mall,Level 2,2025-08-16 08:00:00,54.01,292.0,Van,8,Saturday,8,Over 4 hours
+EV000802,ST033,Office District,Level 1,2026-08-05 04:00:00,34.57,344.0,Van,4,Wednesday,8,Over 4 hours
+EV000803,ST026,Mall,Level 1,2025-12-28 10:00:00,61.26,124.0,Van,10,Sunday,12,2–4 hours
+EV000804,ST044,Mall,DC Fast,2026-05-25 16:00:00,33.08,345.0,SUV,16,Monday,5,Over 4 hours
+EV000805,ST032,Transit Hub,Level 2,2025-01-26 08:00:00,71.13,163.0,Sedan,8,Sunday,1,2–4 hours
+EV000806,ST028,Mall,Level 1,2025-08-10 00:00:00,82.17,223.0,Compact,0,Sunday,8,2–4 hours
+EV000807,ST016,Office District,Level 2,2025-04-06 19:00:00,26.46,42.0,SUV,19,Sunday,4,Up to 1 hour
+EV000808,ST040,Highway,Level 2,2025-01-25 00:00:00,54.74,61.0,Compact,0,Saturday,1,1–2 hours
+EV000809,ST016,Highway,DC Fast,2026-10-15 16:00:00,78.19,76.0,Compact,16,Thursday,10,1–2 hours
+EV000810,ST008,Residential,Level 1,2026-06-26 05:00:00,54.65,268.0,Sedan,5,Friday,6,Over 4 hours
+EV000811,ST039,Mall,Level 1,2025-05-21 19:00:00,40.76,190.0,Sedan,19,Wednesday,5,2–4 hours
+EV000812,ST036,Office District,Level 2,2025-07-01 12:00:00,63.98,266.0,Van,12,Tuesday,7,Over 4 hours
+EV000813,ST009,Highway,Level 2,2025-11-25 19:00:00,39.2,150.0,SUV,19,Tuesday,11,2–4 hours
+EV000814,ST049,Residential,Level 1,2025-07-20 08:00:00,45.66,140.0,SUV,8,Sunday,7,2–4 hours
+EV000815,ST033,Mall,DC Fast,2026-09-15 05:00:00,89.38,173.0,Van,5,Tuesday,9,2–4 hours
+EV000816,ST027,Transit Hub,Level 1,2025-11-19 01:00:00,37.26,146.0,Sedan,1,Wednesday,11,2–4 hours
+EV000817,ST049,Mall,DC Fast,2026-03-14 22:00:00,82.13,21.0,Sedan,22,Saturday,3,Up to 1 hour
+EV000818,ST037,Highway,Level 2,2026-04-16 20:00:00,68.08,123.0,SUV,20,Thursday,4,2–4 hours
+EV000819,ST039,Mall,DC Fast,2025-04-22 15:00:00,40.73,335.0,Van,15,Tuesday,4,Over 4 hours
+EV000820,ST028,Residential,DC Fast,2025-12-24 20:00:00,81.68,278.0,Compact,20,Wednesday,12,Over 4 hours
+EV000821,ST014,Highway,Level 1,2025-10-28 19:00:00,17.8,196.0,Van,19,Tuesday,10,2–4 hours
+EV000822,ST004,Mall,Level 2,2026-05-05 01:00:00,86.05,162.0,Compact,1,Tuesday,5,2–4 hours
+EV000825,ST015,Office District,Level 1,2025-11-15 19:00:00,43.05,315.0,SUV,19,Saturday,11,Over 4 hours
+EV000827,ST001,Transit Hub,DC Fast,2026-07-17 13:00:00,73.83,41.0,Sedan,13,Friday,7,Up to 1 hour
+EV000828,ST015,Office District,DC Fast,2025-06-13 09:00:00,51.71,243.0,SUV,9,Friday,6,Over 4 hours
+EV000830,ST026,Highway,Level 2,2026-03-10 05:00:00,52.49,313.0,Van,5,Tuesday,3,Over 4 hours
+EV000831,ST023,Mall,DC Fast,2026-05-28 13:00:00,66.85,215.0,Compact,13,Thursday,5,2–4 hours
+EV000832,ST044,Residential,Level 1,2025-07-28 07:00:00,59.15,25.0,Sedan,7,Monday,7,Up to 1 hour
+EV000833,ST030,Highway,Level 1,2025-09-02 20:00:00,21.56,114.0,Van,20,Tuesday,9,1–2 hours
+EV000834,ST029,Mall,Level 1,2026-08-07 01:00:00,23.49,112.0,Van,1,Friday,8,1–2 hours
+EV000835,ST039,Mall,DC Fast,2026-04-11 01:00:00,66.37,108.0,Sedan,1,Saturday,4,1–2 hours
+EV000836,ST045,Transit Hub,Level 1,2025-04-07 20:00:00,28.82,177.0,SUV,20,Monday,4,2–4 hours
+EV000837,ST012,Highway,Level 2,2025-10-14 09:00:00,80.94,74.0,SUV,9,Tuesday,10,1–2 hours
+EV000838,ST043,Office District,Level 1,2025-01-20 13:00:00,50.25,284.0,Compact,13,Monday,1,Over 4 hours
+EV000839,ST019,Residential,Level 2,2026-05-29 06:00:00,16.78,260.0,SUV,6,Friday,5,Over 4 hours
+EV000840,ST045,Office District,Level 2,2025-08-17 05:00:00,70.13,140.0,SUV,5,Sunday,8,2–4 hours
+EV000842,ST035,Highway,Level 1,2026-09-24 03:00:00,60.32,317.0,Van,3,Thursday,9,Over 4 hours
+EV000843,ST038,Office District,Level 1,2025-08-16 14:00:00,82.26,159.0,SUV,14,Saturday,8,2–4 hours
+EV000844,ST020,Mall,DC Fast,2026-10-25 03:00:00,68.42,178.0,Van,3,Sunday,10,2–4 hours
+EV000845,ST023,Residential,Level 1,2025-08-27 18:00:00,70.63,54.0,SUV,18,Wednesday,8,Up to 1 hour
+EV000846,ST018,Transit Hub,Level 2,2025-08-07 09:00:00,47.87,208.0,Van,9,Thursday,8,2–4 hours
+EV000847,ST011,Transit Hub,Level 1,2026-07-05 00:00:00,69.97,83.0,Van,0,Sunday,7,1–2 hours
+EV000848,ST049,Mall,Level 2,2025-02-03 11:00:00,41.31,29.0,Sedan,11,Monday,2,Up to 1 hour
+EV000849,ST044,Highway,Level 2,2026-02-04 10:00:00,43.19,157.0,Sedan,10,Wednesday,2,2–4 hours
